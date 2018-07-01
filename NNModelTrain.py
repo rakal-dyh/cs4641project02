@@ -7,7 +7,10 @@ class NNModel():
     testdata=[]
     testlabel=[]
 
-    def readData():
+    #
+    def readData(self,numberOfRows):
+        self.data=read(3)
+        print data
         pass
 
     def trainModel():
