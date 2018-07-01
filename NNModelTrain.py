@@ -13,25 +13,34 @@ class NNModel():
 
     #for test
     def test(self):
-        self.readData(3)
+        num=50
+        self.readData(num,num)
         X=self.data
         y=self.labelFormatted
+        #print y
         data = [X,y]
-        model = self.train_nn(data, 2, 2, verbose=True)
+        model = self.train_nn(data, 30, 30, verbose=True)
+        pre=self.predict(model,X)
+        #print pre
+        print self.check_accuracy(y,pre,num)
         pass
 
 
     #this method read the images and labels
-    def readData(self,numberOfRows):
+    def readData(self,numberOfRows,numberOfRows_test):
         data,label=read(numberOfRows)
         self.data=np.array(data)
         self.label=np.array(label)
         self.labelFormatted=self.changeLabelFormatToNew(self.label)
+        data2,label2=read(numberOfRows_test,"testing","MNIST_data")
+        self.testdata=np.array(data2)
+        self.testlabel=np.array(label2)
+        self.testlabelFormatted=self.changeLabelFormatToNew(self.testlabel)
         pass
 
 
     #use the data to train the model
-    def train_nn(self,data, h1_dim, h2_dim, learning_rate=0.01, num_epochs=10, verbose=False):
+    def train_nn(self,data, h1_dim, h2_dim, learning_rate=0.01, num_epochs=2000, verbose=False):
         X, y = data[0], data[1]
 
         num_examples = len(X)        # training set size
@@ -51,7 +60,8 @@ class NNModel():
 
         # TODO: Your implementation goes here
         for i in range(num_epochs):
-
+            print "epoch:"
+            print i
             z1=np.matrix(X)*np.matrix(W1)+b1
             a1=self.sigmoid(z1)
             z2=a1*W2+b2
@@ -87,7 +97,7 @@ class NNModel():
             model['b2']=model['b2']-learning_rate*parb2
             model['b3']=model['b3']-learning_rate*parb3
 
-
+        return model
     #predict new data points with model
     #retrun a vector with 10 columns
     '''
@@ -161,8 +171,21 @@ class NNModel():
 
     #using test data to check the accuracy
     def validation(self):
+        #print self.predict()
+
         pass
 
+    def check_accuracy(self,y,pre,num):
+        right=0
+        for i in range(num):
+            for j in range(10):
+                if (y[i,j]==1 and pre[i,j]==1):
+                    right=right+1
+        num=num+0.0
+        right=right+0.0
+        print right
+        print num
+        return right/num
 
     #change from origin label to new formatted label
     #return new formatted label
