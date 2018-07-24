@@ -13,17 +13,18 @@ class NNModel():
 
     #for test
     def test(self):
-        num_train=500
-        num_test=1000
+        num_train=1000
+        num_test=10000
         self.readData(num_train,num_test)
         X=self.data
         y=self.labelFormatted
         X_test=self.testdata
         y_test=self.testlabelFormatted
-
+        #print y
         data = [X,y]
         data_pre=[self.testdata,self.testlabelFormatted]
-        model = self.train_nn(data, 80, 40, verbose=True)
+        model = self.train_nn(data, 40, 10, verbose=True)
+
 
         '''
         if validate with train data, use X, y, num_train bellow
@@ -31,6 +32,7 @@ class NNModel():
         '''
         pre=self.predict(model,X_test)
         print self.check_accuracy(y_test,pre,num_test)
+
         pass
 
 
@@ -48,12 +50,12 @@ class NNModel():
 
 
     #use the data to train the model
-    def train_nn(self,data, h1_dim, h2_dim, learning_rate=0.01, num_epochs=500, verbose=False):
+    def train_nn(self,data, h1_dim, h2_dim, learning_rate=0.01, num_epochs=300, verbose=False):
         X, y = data[0], data[1]
 
         num_examples = len(X)        # training set size
         input_dim = 784                # number of neurons in the input layer
-        output_dim = 10               # number of neurons in the output layer
+        output_dim = 1               # number of neurons in the output layer
 
         # Initialize the parameters to random values. We need to learn these.
         W1 = np.random.randn(input_dim, h1_dim) / np.sqrt(input_dim)
@@ -77,28 +79,36 @@ class NNModel():
             a2=self.sigmoid(z2)
             z3=a2*W3+b3
             a3=self.sigmoid(z3)
-            #print self.calculate_loss(model,data)
-            print a3[1,0]
-            #print np.matrix(y)[1]
-            #preY=self.predict(model,X)
 
-            delta4=np.multiply(a3-np.matrix(y),self.sigmoid_derivative(z3))
+            #print np.transpose(a3)
+            #print a3[1]
+
+
+            preY=self.predict(model,X)
+            # if i==0:
+            #     print np.size(np.transpose(a3)-np.matrix(y))
+
+
+
+            #delta4=np.multiply(np.transpose(np.matrix(preY-y)),self.sigmoid_derivative(z3))
+            delta4=np.multiply(np.transpose(np.transpose(a3)-np.matrix(y)),self.sigmoid_derivative(z3))
             delta3=np.multiply(self.sigmoid_derivative(z2),delta4*np.transpose(W3))
-
             delta2=np.multiply(self.sigmoid_derivative(z1),delta3*np.transpose(W2))
 
-
+            # print type(np.transpose(np.matrix(preY-y)))
+            # print type(np.transpose(a3)-np.matrix(y))
+            # print np.size(np.transpose(np.matrix(preY-y)),0)
+            # print np.size(np.transpose(a3)-np.matrix(y),1)
 
             parW3=np.transpose(a2)*delta4
             #print np.size(parW3,0)
             #print np.size(parW3,1)
-            parb3=np.sum(delta4,axis=0)
-            #print np.size(parb3,0)
-            #print np.size(parb3,1)
+            parb3=np.sum(delta4)
+            #print np.size(parb3)
             parW2=np.transpose(a1)*delta3
-            parb2=np.sum(delta3,axis=0)
+            parb2=np.sum(delta3)
             parW1=np.transpose(X)*delta2
-            parb1=np.sum(delta2,axis=0)
+            parb1=np.sum(delta2)
 
             #print parW1
             #print parW2
@@ -117,19 +127,13 @@ class NNModel():
     #predict new data points with model
     #retrun a vector with 10 columns
     '''
-    ex: (new format)
-        1,0,0,0,0,0,0,0,0,0
-        0,0,0,0,1,0,0,0,0,0
-        ...
-    it is (old format)
-        0
-        4
+
     '''
     def predict(self,model,X):
         W1, b1, W2, b2, W3, b3 = model['W1'], model['b1'], model['W2'], model['b2'], model['W3'], model['b3']
         N=np.size(X,0)
 
-        output=np.zeros(N)
+        #output=np.zeros(N)
 
         z1=np.matrix(X)*np.matrix(W1)+b1
         a1=self.sigmoid(z1)
@@ -140,33 +144,18 @@ class NNModel():
         z3=a2*W3+b3
         a3=self.sigmoid(z3)
 
-        #print a3[1]
-        # output=[0,0,0,0,0,0,0,0,0,0,0]
-        # pos=0
-        # max=-1
-        # for i in range(10):
-        #     print a3[i]
-        #     if a3[i]>max:
-        #         pos=i
-        #         max=a3[i]
-        # output[pos]=1
-        output=[]
-
+        out=[]
+        print a3[1]
         for i in range(N):
-            pos=0
-            max=-1
-            for j in range(10):
-                if a3[i,j]>max:
-                    pos=j
-                    max=a3[i,j]
-            tmp=[0,0,0,0,0,0,0,0,0,0]
-            tmp[pos]=1
-            output.append(tmp)
+            if a3[i]>0.5:
+                out.append(1)
+            else:
+                out.append(0)
 
-        out=np.array(output)
+        #print out
+        #print '----'
+        #print np.transpose(a3)
         return out
-        #        0.8,0.6,0.12,0,0,0,0,0,0,0
-        #        1,0,0,0,0,0,0,0,0,0
 
 
     #calculate_loss
@@ -174,12 +163,13 @@ class NNModel():
         X, y = data[0], data[1]
         W1, b1, W2, b2, W3, b3 = model['W1'], model['b1'], model['W2'], model['b2'], model['W3'], model['b3']
 
-        N=np.size(y,0)
-        yPre=np.array(self.predict(model,X))
+        N=np.size(y)
+        yPre=np.array(predict(model,X))
+
 
         sum=0
         for i in range(N):
-            sum=sum+self.calculate_loss_two_points(yPre[i],y[i])
+            sum=sum+abs(yPre[i]-y[i])
             sum=sum/N
         return sum
         pass
@@ -193,10 +183,24 @@ class NNModel():
 
     def check_accuracy(self,y,pre,num):
         right=0
+        num_0=0
         for i in range(num):
-            for j in range(10):
-                if (y[i,j]==1 and pre[i,j]==1):
-                    right=right+1
+            if (y[i]==1) and (pre[i]==1):
+                right=right+1
+                if y[i]==1:
+                    num_0=num_0+1
+        num=num
+        right=right+0.0
+        print 'accuacy on identify 0'
+        print right
+        print num_0
+        print right/(num_0)
+
+        print 'accuacy for all'
+        right=0
+        for i in range(num):
+            if y[i]==pre[i]:
+                right=right+1
         num=num+0.0
         right=right+0.0
         print right
@@ -206,27 +210,30 @@ class NNModel():
     #change from origin label to new formatted label
     #return new formatted label
     '''
-        origin label is a vector like:
-        [0,5,2,4,...]
-        new formatted label is:
-        1,0,0,0,0,0,0,0,0,0
-        0,0,0,0,0,1,0,0,0,0
-        0,0,1,0,0,0,0,0,0,0
-        0,0,0,0,1,0,0,0,0,0
+        if label is 0 : 1
+        if label != 0 : 0
     '''
     def changeLabelFormatToNew(self,oldlabel):
         datasize=oldlabel.size
         #newlabel=[]
-        tmplabel=[]
+        # tmplabel=[]
+        # for i in range(datasize):
+        #     tmp=[0,0,0,0,0,0,0,0,0,0]
+        #     pos=oldlabel[i]
+        #     tmp[pos[0]]=1
+        #     tmplabel.append(tmp)
+        # #print tmplabel
+        # newlabel=np.array(tmplabel)
+        # return newlabel
+        # pass
+        newlabel=[]
         for i in range(datasize):
-            tmp=[0,0,0,0,0,0,0,0,0,0]
-            pos=oldlabel[i]
-            tmp[pos[0]]=1
-            tmplabel.append(tmp)
-        #print tmplabel
-        newlabel=np.array(tmplabel)
+            if oldlabel[i]==0:
+                newlabel.append(1)
+            else:
+                newlabel.append(0)
+        newlabel=np.array(newlabel)
         return newlabel
-        pass
 
 #Util:
 
