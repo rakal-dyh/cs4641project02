@@ -1,0 +1,5232 @@
+RUNNING MAIN
+9
+(50000, 10)
+ 
+train loss:  0.90988
+test loss:   0.9108
+ 
+train loss:  0.62228
+test loss:   0.6195
+ 
+train loss:  0.35176
+test loss:   0.3457
+ 
+train loss:  0.17916
+test loss:   0.1679
+ 
+train loss:  0.13544
+test loss:   0.1277
+ 
+train loss:  0.11666
+test loss:   0.1106
+ 
+train loss:  0.10504
+test loss:   0.1022
+ 
+train loss:  0.09686
+test loss:   0.0944
+ 
+train loss:  0.0911
+test loss:   0.0882
+ 
+train loss:  0.08642
+test loss:   0.0834
+ 
+train loss:  0.08178
+test loss:   0.0798
+ 
+train loss:  0.07802
+test loss:   0.077
+ 
+train loss:  0.0746
+test loss:   0.074
+ 
+train loss:  0.07122
+test loss:   0.0716
+ 
+train loss:  0.0685
+test loss:   0.0697
+ 
+train loss:  0.06562
+test loss:   0.0679
+ 
+train loss:  0.06376
+test loss:   0.0661
+ 
+train loss:  0.0616
+test loss:   0.0646
+ 
+train loss:  0.05944
+test loss:   0.0627
+ 
+train loss:  0.05758
+test loss:   0.0608
+ 
+train loss:  0.0559
+test loss:   0.0597
+ 
+train loss:  0.05444
+test loss:   0.0581
+ 
+train loss:  0.05316
+test loss:   0.057
+ 
+train loss:  0.0517
+test loss:   0.0557
+ 
+train loss:  0.05074
+test loss:   0.0547
+ 
+train loss:  0.04952
+test loss:   0.0536
+ 
+train loss:  0.0482
+test loss:   0.0528
+ 
+train loss:  0.04712
+test loss:   0.0519
+ 
+train loss:  0.04584
+test loss:   0.0519
+ 
+train loss:  0.04502
+test loss:   0.0506
+ 
+train loss:  0.04424
+test loss:   0.0496
+ 
+train loss:  0.0434
+test loss:   0.0491
+ 
+train loss:  0.04256
+test loss:   0.0482
+ 
+train loss:  0.04164
+test loss:   0.048
+ 
+train loss:  0.04092
+test loss:   0.0468
+ 
+train loss:  0.04002
+test loss:   0.0464
+ 
+train loss:  0.03938
+test loss:   0.0459
+ 
+train loss:  0.0387
+test loss:   0.0456
+ 
+train loss:  0.03836
+test loss:   0.045
+ 
+train loss:  0.03752
+test loss:   0.0445
+ 
+train loss:  0.03698
+test loss:   0.0444
+ 
+train loss:  0.03654
+test loss:   0.0439
+ 
+train loss:  0.03598
+test loss:   0.0437
+ 
+train loss:  0.03544
+test loss:   0.0433
+ 
+train loss:  0.03474
+test loss:   0.0431
+ 
+train loss:  0.0343
+test loss:   0.0425
+ 
+train loss:  0.03384
+test loss:   0.0422
+ 
+train loss:  0.03328
+test loss:   0.0426
+ 
+train loss:  0.03274
+test loss:   0.0424
+ 
+train loss:  0.03228
+test loss:   0.0416
+ 
+train loss:  0.03192
+test loss:   0.0413
+ 
+train loss:  0.03142
+test loss:   0.0406
+ 
+train loss:  0.03096
+test loss:   0.0403
+ 
+train loss:  0.0305
+test loss:   0.0397
+ 
+train loss:  0.03024
+test loss:   0.0394
+ 
+train loss:  0.02982
+test loss:   0.0392
+ 
+train loss:  0.0293
+test loss:   0.0388
+ 
+train loss:  0.02906
+test loss:   0.0385
+ 
+train loss:  0.0286
+test loss:   0.0381
+ 
+train loss:  0.02822
+test loss:   0.0373
+ 
+train loss:  0.02804
+test loss:   0.0373
+ 
+train loss:  0.02788
+test loss:   0.0369
+ 
+train loss:  0.0276
+test loss:   0.037
+ 
+train loss:  0.02726
+test loss:   0.0368
+ 
+train loss:  0.0269
+test loss:   0.0364
+ 
+train loss:  0.02658
+test loss:   0.0364
+ 
+train loss:  0.02636
+test loss:   0.0366
+ 
+train loss:  0.02604
+test loss:   0.0365
+ 
+train loss:  0.02578
+test loss:   0.0364
+ 
+train loss:  0.0254
+test loss:   0.0361
+ 
+train loss:  0.0252
+test loss:   0.0359
+ 
+train loss:  0.02498
+test loss:   0.0356
+ 
+train loss:  0.0247
+test loss:   0.0355
+ 
+train loss:  0.02446
+test loss:   0.0354
+ 
+train loss:  0.0243
+test loss:   0.0353
+ 
+train loss:  0.02398
+test loss:   0.0355
+ 
+train loss:  0.0236
+test loss:   0.0354
+ 
+train loss:  0.02338
+test loss:   0.0351
+ 
+train loss:  0.02312
+test loss:   0.0349
+ 
+train loss:  0.02292
+test loss:   0.035
+ 
+train loss:  0.02262
+test loss:   0.0351
+ 
+train loss:  0.02242
+test loss:   0.0352
+ 
+train loss:  0.02222
+test loss:   0.0352
+ 
+train loss:  0.02202
+test loss:   0.0353
+ 
+train loss:  0.02176
+test loss:   0.0352
+ 
+train loss:  0.02156
+test loss:   0.0353
+ 
+train loss:  0.02134
+test loss:   0.0353
+ 
+train loss:  0.0211
+test loss:   0.0352
+ 
+train loss:  0.021
+test loss:   0.0351
+ 
+train loss:  0.02084
+test loss:   0.0351
+ 
+train loss:  0.02068
+test loss:   0.0352
+ 
+train loss:  0.02042
+test loss:   0.035
+ 
+train loss:  0.02028
+test loss:   0.0348
+ 
+train loss:  0.0201
+test loss:   0.0349
+ 
+train loss:  0.01994
+test loss:   0.0348
+ 
+train loss:  0.01976
+test loss:   0.0345
+ 
+train loss:  0.01966
+test loss:   0.0345
+ 
+train loss:  0.0194
+test loss:   0.0342
+ 
+train loss:  0.01914
+test loss:   0.0341
+ 
+train loss:  0.01886
+test loss:   0.0341
+ 
+train loss:  0.0187
+test loss:   0.0341
+ 
+train loss:  0.01864
+test loss:   0.0339
+ 
+train loss:  0.01838
+test loss:   0.0339
+ 
+train loss:  0.01836
+test loss:   0.0338
+ 
+train loss:  0.0183
+test loss:   0.0337
+ 
+train loss:  0.01822
+test loss:   0.0338
+ 
+train loss:  0.01808
+test loss:   0.0337
+ 
+train loss:  0.01798
+test loss:   0.0337
+ 
+train loss:  0.01794
+test loss:   0.0335
+ 
+train loss:  0.01784
+test loss:   0.0333
+ 
+train loss:  0.0177
+test loss:   0.0331
+ 
+train loss:  0.01754
+test loss:   0.0332
+ 
+train loss:  0.01736
+test loss:   0.033
+ 
+train loss:  0.01726
+test loss:   0.0329
+ 
+train loss:  0.0171
+test loss:   0.0329
+ 
+train loss:  0.017
+test loss:   0.033
+ 
+train loss:  0.01688
+test loss:   0.0329
+ 
+train loss:  0.01676
+test loss:   0.0329
+ 
+train loss:  0.01666
+test loss:   0.0328
+ 
+train loss:  0.0165
+test loss:   0.0329
+ 
+train loss:  0.01636
+test loss:   0.0329
+ 
+train loss:  0.01626
+test loss:   0.033
+ 
+train loss:  0.0162
+test loss:   0.0331
+ 
+train loss:  0.01614
+test loss:   0.0329
+ 
+train loss:  0.01612
+test loss:   0.0328
+ 
+train loss:  0.01596
+test loss:   0.0327
+ 
+train loss:  0.01588
+test loss:   0.0327
+ 
+train loss:  0.01574
+test loss:   0.0328
+ 
+train loss:  0.01568
+test loss:   0.0328
+ 
+train loss:  0.01564
+test loss:   0.0327
+ 
+train loss:  0.01558
+test loss:   0.0328
+ 
+train loss:  0.01552
+test loss:   0.033
+ 
+train loss:  0.01538
+test loss:   0.0331
+ 
+train loss:  0.01532
+test loss:   0.0331
+ 
+train loss:  0.01514
+test loss:   0.033
+ 
+train loss:  0.01504
+test loss:   0.0332
+ 
+train loss:  0.01498
+test loss:   0.0332
+ 
+train loss:  0.0149
+test loss:   0.0333
+ 
+train loss:  0.01488
+test loss:   0.0332
+ 
+train loss:  0.01486
+test loss:   0.0334
+ 
+train loss:  0.01478
+test loss:   0.0335
+ 
+train loss:  0.01464
+test loss:   0.0335
+ 
+train loss:  0.01452
+test loss:   0.0336
+ 
+train loss:  0.01448
+test loss:   0.0336
+ 
+train loss:  0.01444
+test loss:   0.0338
+ 
+train loss:  0.01438
+test loss:   0.0338
+ 
+train loss:  0.01428
+test loss:   0.0337
+ 
+train loss:  0.01422
+test loss:   0.0337
+ 
+train loss:  0.01414
+test loss:   0.0339
+ 
+train loss:  0.01408
+test loss:   0.0339
+ 
+train loss:  0.01402
+test loss:   0.0339
+ 
+train loss:  0.01392
+test loss:   0.0339
+ 
+train loss:  0.01388
+test loss:   0.034
+ 
+train loss:  0.01384
+test loss:   0.0341
+ 
+train loss:  0.01376
+test loss:   0.0341
+ 
+train loss:  0.01366
+test loss:   0.0341
+ 
+train loss:  0.01358
+test loss:   0.0342
+ 
+train loss:  0.0135
+test loss:   0.0343
+ 
+train loss:  0.0134
+test loss:   0.0343
+ 
+train loss:  0.01336
+test loss:   0.0341
+ 
+train loss:  0.01332
+test loss:   0.0341
+ 
+train loss:  0.0133
+test loss:   0.0341
+ 
+train loss:  0.01326
+test loss:   0.0341
+ 
+train loss:  0.01318
+test loss:   0.0341
+ 
+train loss:  0.01314
+test loss:   0.0341
+ 
+train loss:  0.01308
+test loss:   0.0342
+ 
+train loss:  0.01302
+test loss:   0.034
+ 
+train loss:  0.01298
+test loss:   0.0341
+ 
+train loss:  0.01288
+test loss:   0.0341
+ 
+train loss:  0.01284
+test loss:   0.034
+ 
+train loss:  0.01278
+test loss:   0.034
+ 
+train loss:  0.01274
+test loss:   0.034
+ 
+train loss:  0.01274
+test loss:   0.034
+ 
+train loss:  0.01268
+test loss:   0.034
+ 
+train loss:  0.01264
+test loss:   0.034
+ 
+train loss:  0.0126
+test loss:   0.0339
+ 
+train loss:  0.01256
+test loss:   0.0337
+ 
+train loss:  0.01254
+test loss:   0.0338
+ 
+train loss:  0.01254
+test loss:   0.0337
+ 
+train loss:  0.01248
+test loss:   0.0336
+ 
+train loss:  0.01244
+test loss:   0.0335
+ 
+train loss:  0.01236
+test loss:   0.0335
+ 
+train loss:  0.0123
+test loss:   0.0334
+ 
+train loss:  0.01226
+test loss:   0.0334
+ 
+train loss:  0.0122
+test loss:   0.0333
+ 
+train loss:  0.01214
+test loss:   0.0334
+ 
+train loss:  0.01206
+test loss:   0.0332
+ 
+train loss:  0.01204
+test loss:   0.0331
+ 
+train loss:  0.01198
+test loss:   0.033
+ 
+train loss:  0.0119
+test loss:   0.0329
+ 
+train loss:  0.01182
+test loss:   0.0329
+ 
+train loss:  0.01174
+test loss:   0.0329
+ 
+train loss:  0.0117
+test loss:   0.033
+ 
+train loss:  0.01164
+test loss:   0.033
+ 
+train loss:  0.0115
+test loss:   0.033
+ 
+train loss:  0.01144
+test loss:   0.0329
+ 
+train loss:  0.01142
+test loss:   0.0327
+ 
+train loss:  0.01138
+test loss:   0.0326
+ 
+train loss:  0.01134
+test loss:   0.0325
+ 
+train loss:  0.01134
+test loss:   0.0326
+ 
+train loss:  0.0113
+test loss:   0.0324
+ 
+train loss:  0.01126
+test loss:   0.0326
+ 
+train loss:  0.01122
+test loss:   0.0325
+ 
+train loss:  0.01114
+test loss:   0.0325
+ 
+train loss:  0.01114
+test loss:   0.0325
+ 
+train loss:  0.0111
+test loss:   0.0325
+ 
+train loss:  0.01104
+test loss:   0.0325
+ 
+train loss:  0.01104
+test loss:   0.0324
+ 
+train loss:  0.011
+test loss:   0.0323
+ 
+train loss:  0.011
+test loss:   0.0323
+ 
+train loss:  0.01098
+test loss:   0.0324
+ 
+train loss:  0.01088
+test loss:   0.0324
+ 
+train loss:  0.01086
+test loss:   0.0324
+ 
+train loss:  0.0108
+test loss:   0.0324
+ 
+train loss:  0.01076
+test loss:   0.0323
+ 
+train loss:  0.0107
+test loss:   0.0321
+ 
+train loss:  0.01064
+test loss:   0.032
+ 
+train loss:  0.01058
+test loss:   0.0321
+ 
+train loss:  0.01058
+test loss:   0.0321
+ 
+train loss:  0.01056
+test loss:   0.032
+ 
+train loss:  0.0105
+test loss:   0.032
+ 
+train loss:  0.0105
+test loss:   0.0319
+ 
+train loss:  0.01046
+test loss:   0.0319
+ 
+train loss:  0.01046
+test loss:   0.0319
+ 
+train loss:  0.01044
+test loss:   0.0319
+ 
+train loss:  0.01042
+test loss:   0.032
+ 
+train loss:  0.01042
+test loss:   0.032
+ 
+train loss:  0.01038
+test loss:   0.032
+ 
+train loss:  0.01024
+test loss:   0.032
+ 
+train loss:  0.01024
+test loss:   0.032
+ 
+train loss:  0.0102
+test loss:   0.0321
+ 
+train loss:  0.01016
+test loss:   0.0321
+ 
+train loss:  0.01016
+test loss:   0.0321
+ 
+train loss:  0.0101
+test loss:   0.0321
+ 
+train loss:  0.01006
+test loss:   0.0322
+ 
+train loss:  0.01004
+test loss:   0.0322
+ 
+train loss:  0.01002
+test loss:   0.0322
+ 
+train loss:  0.01
+test loss:   0.0323
+ 
+train loss:  0.00996
+test loss:   0.0323
+ 
+train loss:  0.00992
+test loss:   0.0324
+ 
+train loss:  0.00988
+test loss:   0.0325
+ 
+train loss:  0.00988
+test loss:   0.0325
+ 
+train loss:  0.00988
+test loss:   0.0326
+ 
+train loss:  0.00984
+test loss:   0.0327
+ 
+train loss:  0.00978
+test loss:   0.0328
+ 
+train loss:  0.00976
+test loss:   0.0328
+ 
+train loss:  0.00976
+test loss:   0.0328
+ 
+train loss:  0.00976
+test loss:   0.0327
+ 
+train loss:  0.00974
+test loss:   0.0327
+ 
+train loss:  0.00972
+test loss:   0.0327
+ 
+train loss:  0.00972
+test loss:   0.0328
+ 
+train loss:  0.00972
+test loss:   0.033
+ 
+train loss:  0.00966
+test loss:   0.033
+ 
+train loss:  0.00966
+test loss:   0.033
+ 
+train loss:  0.00968
+test loss:   0.033
+ 
+train loss:  0.00968
+test loss:   0.033
+ 
+train loss:  0.00966
+test loss:   0.0331
+ 
+train loss:  0.00964
+test loss:   0.033
+ 
+train loss:  0.00962
+test loss:   0.033
+ 
+train loss:  0.00958
+test loss:   0.033
+ 
+train loss:  0.00954
+test loss:   0.0333
+ 
+train loss:  0.00954
+test loss:   0.0333
+ 
+train loss:  0.00954
+test loss:   0.0331
+ 
+train loss:  0.00954
+test loss:   0.0331
+ 
+train loss:  0.00952
+test loss:   0.0332
+ 
+train loss:  0.00952
+test loss:   0.0332
+ 
+train loss:  0.00948
+test loss:   0.0331
+ 
+train loss:  0.00946
+test loss:   0.0332
+ 
+train loss:  0.00942
+test loss:   0.0332
+ 
+train loss:  0.00942
+test loss:   0.0332
+ 
+train loss:  0.00938
+test loss:   0.0333
+ 
+train loss:  0.00936
+test loss:   0.0333
+ 
+train loss:  0.00936
+test loss:   0.0334
+ 
+train loss:  0.00936
+test loss:   0.0334
+ 
+train loss:  0.0093
+test loss:   0.0334
+ 
+train loss:  0.0093
+test loss:   0.0334
+ 
+train loss:  0.00928
+test loss:   0.0334
+ 
+train loss:  0.00924
+test loss:   0.0336
+ 
+train loss:  0.00922
+test loss:   0.0336
+ 
+train loss:  0.00922
+test loss:   0.0336
+ 
+train loss:  0.00922
+test loss:   0.0336
+ 
+train loss:  0.00922
+test loss:   0.0336
+ 
+train loss:  0.00922
+test loss:   0.0336
+ 
+train loss:  0.0092
+test loss:   0.0336
+ 
+train loss:  0.00916
+test loss:   0.0336
+ 
+train loss:  0.00916
+test loss:   0.0335
+ 
+train loss:  0.00914
+test loss:   0.0335
+ 
+train loss:  0.00914
+test loss:   0.0335
+ 
+train loss:  0.00912
+test loss:   0.0333
+ 
+train loss:  0.00906
+test loss:   0.0332
+ 
+train loss:  0.00908
+test loss:   0.0332
+ 
+train loss:  0.00904
+test loss:   0.0332
+ 
+train loss:  0.00904
+test loss:   0.0332
+ 
+train loss:  0.00904
+test loss:   0.0332
+ 
+train loss:  0.00902
+test loss:   0.0333
+ 
+train loss:  0.009
+test loss:   0.0332
+ 
+train loss:  0.00896
+test loss:   0.0331
+ 
+train loss:  0.00894
+test loss:   0.0333
+ 
+train loss:  0.00894
+test loss:   0.0333
+ 
+train loss:  0.00892
+test loss:   0.0334
+ 
+train loss:  0.0089
+test loss:   0.0333
+ 
+train loss:  0.0089
+test loss:   0.0333
+ 
+train loss:  0.00888
+test loss:   0.0334
+ 
+train loss:  0.00884
+test loss:   0.0333
+ 
+train loss:  0.00884
+test loss:   0.0333
+ 
+train loss:  0.00884
+test loss:   0.0334
+ 
+train loss:  0.00884
+test loss:   0.0334
+ 
+train loss:  0.00882
+test loss:   0.0332
+ 
+train loss:  0.00882
+test loss:   0.0332
+ 
+train loss:  0.00882
+test loss:   0.0332
+ 
+train loss:  0.0088
+test loss:   0.0331
+ 
+train loss:  0.00878
+test loss:   0.0331
+ 
+train loss:  0.00878
+test loss:   0.0332
+ 
+train loss:  0.00876
+test loss:   0.0332
+ 
+train loss:  0.00874
+test loss:   0.033
+ 
+train loss:  0.00872
+test loss:   0.0329
+ 
+train loss:  0.00872
+test loss:   0.0328
+ 
+train loss:  0.00872
+test loss:   0.0329
+ 
+train loss:  0.00872
+test loss:   0.033
+ 
+train loss:  0.00872
+test loss:   0.0329
+ 
+train loss:  0.00872
+test loss:   0.0329
+RUNNING FOLD  1
+9
+(40000, 10)
+ 
+train loss:  0.9114
+test loss:   0.9065
+ 
+train loss:  0.531025
+test loss:   0.519
+ 
+train loss:  0.39275
+test loss:   0.389
+ 
+train loss:  0.310325
+test loss:   0.3016
+ 
+train loss:  0.210725
+test loss:   0.2058
+ 
+train loss:  0.151775
+test loss:   0.1483
+ 
+train loss:  0.125875
+test loss:   0.1216
+ 
+train loss:  0.112325
+test loss:   0.1101
+ 
+train loss:  0.104925
+test loss:   0.1027
+ 
+train loss:  0.098175
+test loss:   0.0961
+ 
+train loss:  0.09255
+test loss:   0.0922
+ 
+train loss:  0.088775
+test loss:   0.0878
+ 
+train loss:  0.084325
+test loss:   0.0834
+ 
+train loss:  0.0811
+test loss:   0.0818
+ 
+train loss:  0.078225
+test loss:   0.0792
+ 
+train loss:  0.0757
+test loss:   0.0767
+ 
+train loss:  0.0733
+test loss:   0.0757
+ 
+train loss:  0.07075
+test loss:   0.0734
+ 
+train loss:  0.0685
+test loss:   0.0709
+ 
+train loss:  0.06615
+test loss:   0.0699
+ 
+train loss:  0.063875
+test loss:   0.0686
+ 
+train loss:  0.061875
+test loss:   0.0669
+ 
+train loss:  0.0606
+test loss:   0.0662
+ 
+train loss:  0.05885
+test loss:   0.0649
+ 
+train loss:  0.056975
+test loss:   0.0629
+ 
+train loss:  0.0558
+test loss:   0.0613
+ 
+train loss:  0.05435
+test loss:   0.0607
+ 
+train loss:  0.052725
+test loss:   0.0596
+ 
+train loss:  0.05145
+test loss:   0.0587
+ 
+train loss:  0.05035
+test loss:   0.0579
+ 
+train loss:  0.04895
+test loss:   0.0572
+ 
+train loss:  0.04745
+test loss:   0.0565
+ 
+train loss:  0.046375
+test loss:   0.0558
+ 
+train loss:  0.045075
+test loss:   0.0555
+ 
+train loss:  0.0439
+test loss:   0.0546
+ 
+train loss:  0.042875
+test loss:   0.0539
+ 
+train loss:  0.041975
+test loss:   0.0526
+ 
+train loss:  0.040975
+test loss:   0.0517
+ 
+train loss:  0.0405
+test loss:   0.0517
+ 
+train loss:  0.039775
+test loss:   0.0513
+ 
+train loss:  0.03895
+test loss:   0.0505
+ 
+train loss:  0.038225
+test loss:   0.05
+ 
+train loss:  0.03735
+test loss:   0.0497
+ 
+train loss:  0.03675
+test loss:   0.0496
+ 
+train loss:  0.0359
+test loss:   0.0489
+ 
+train loss:  0.035225
+test loss:   0.0486
+ 
+train loss:  0.0347
+test loss:   0.0484
+ 
+train loss:  0.034225
+test loss:   0.048
+ 
+train loss:  0.0336
+test loss:   0.0476
+ 
+train loss:  0.03325
+test loss:   0.0475
+ 
+train loss:  0.03275
+test loss:   0.0467
+ 
+train loss:  0.03225
+test loss:   0.0462
+ 
+train loss:  0.03185
+test loss:   0.0455
+ 
+train loss:  0.0313
+test loss:   0.0453
+ 
+train loss:  0.030775
+test loss:   0.0455
+ 
+train loss:  0.03035
+test loss:   0.0452
+ 
+train loss:  0.03
+test loss:   0.045
+ 
+train loss:  0.029725
+test loss:   0.0444
+ 
+train loss:  0.0293
+test loss:   0.0441
+ 
+train loss:  0.028775
+test loss:   0.044
+ 
+train loss:  0.028625
+test loss:   0.0438
+ 
+train loss:  0.0285
+test loss:   0.0438
+ 
+train loss:  0.02805
+test loss:   0.0438
+ 
+train loss:  0.0278
+test loss:   0.0435
+ 
+train loss:  0.027525
+test loss:   0.0436
+ 
+train loss:  0.027275
+test loss:   0.0434
+ 
+train loss:  0.026875
+test loss:   0.0434
+ 
+train loss:  0.02655
+test loss:   0.043
+ 
+train loss:  0.02635
+test loss:   0.0432
+ 
+train loss:  0.026025
+test loss:   0.0431
+ 
+train loss:  0.02565
+test loss:   0.0431
+ 
+train loss:  0.0252
+test loss:   0.0428
+ 
+train loss:  0.0248
+test loss:   0.0427
+ 
+train loss:  0.024425
+test loss:   0.0426
+ 
+train loss:  0.024125
+test loss:   0.0425
+ 
+train loss:  0.02385
+test loss:   0.0425
+ 
+train loss:  0.023575
+test loss:   0.0422
+ 
+train loss:  0.0233
+test loss:   0.0423
+ 
+train loss:  0.023
+test loss:   0.0419
+ 
+train loss:  0.02275
+test loss:   0.0419
+ 
+train loss:  0.0226
+test loss:   0.0419
+ 
+train loss:  0.022375
+test loss:   0.0418
+ 
+train loss:  0.022075
+test loss:   0.0417
+ 
+train loss:  0.02175
+test loss:   0.0418
+ 
+train loss:  0.021525
+test loss:   0.0417
+ 
+train loss:  0.021325
+test loss:   0.0414
+ 
+train loss:  0.021075
+test loss:   0.0411
+ 
+train loss:  0.02095
+test loss:   0.0409
+ 
+train loss:  0.020725
+test loss:   0.0407
+ 
+train loss:  0.020525
+test loss:   0.0404
+ 
+train loss:  0.020275
+test loss:   0.0401
+ 
+train loss:  0.020025
+test loss:   0.0402
+ 
+train loss:  0.019825
+test loss:   0.04
+ 
+train loss:  0.0197
+test loss:   0.0399
+ 
+train loss:  0.019525
+test loss:   0.0399
+ 
+train loss:  0.019325
+test loss:   0.0397
+ 
+train loss:  0.0191
+test loss:   0.0398
+ 
+train loss:  0.0188
+test loss:   0.0398
+ 
+train loss:  0.01865
+test loss:   0.0398
+ 
+train loss:  0.018475
+test loss:   0.0398
+ 
+train loss:  0.0184
+test loss:   0.0399
+ 
+train loss:  0.01815
+test loss:   0.0399
+ 
+train loss:  0.018025
+test loss:   0.0398
+ 
+train loss:  0.017875
+test loss:   0.0397
+ 
+train loss:  0.0178
+test loss:   0.0398
+ 
+train loss:  0.01765
+test loss:   0.04
+ 
+train loss:  0.017525
+test loss:   0.0399
+ 
+train loss:  0.017425
+test loss:   0.0399
+ 
+train loss:  0.017225
+test loss:   0.0401
+ 
+train loss:  0.01705
+test loss:   0.0401
+ 
+train loss:  0.016975
+test loss:   0.0401
+ 
+train loss:  0.01695
+test loss:   0.0399
+ 
+train loss:  0.0169
+test loss:   0.04
+ 
+train loss:  0.016775
+test loss:   0.0399
+ 
+train loss:  0.016675
+test loss:   0.0399
+ 
+train loss:  0.016625
+test loss:   0.0397
+ 
+train loss:  0.016525
+test loss:   0.0399
+ 
+train loss:  0.016525
+test loss:   0.04
+ 
+train loss:  0.0164
+test loss:   0.04
+ 
+train loss:  0.016275
+test loss:   0.04
+ 
+train loss:  0.016075
+test loss:   0.04
+ 
+train loss:  0.016
+test loss:   0.04
+ 
+train loss:  0.015925
+test loss:   0.04
+ 
+train loss:  0.015825
+test loss:   0.0399
+ 
+train loss:  0.015675
+test loss:   0.0398
+ 
+train loss:  0.01565
+test loss:   0.0396
+ 
+train loss:  0.01555
+test loss:   0.0393
+ 
+train loss:  0.01555
+test loss:   0.0393
+ 
+train loss:  0.015475
+test loss:   0.0392
+ 
+train loss:  0.01545
+test loss:   0.039
+ 
+train loss:  0.0154
+test loss:   0.039
+ 
+train loss:  0.0153
+test loss:   0.0388
+ 
+train loss:  0.0152
+test loss:   0.0388
+ 
+train loss:  0.015125
+test loss:   0.0387
+ 
+train loss:  0.015025
+test loss:   0.0387
+ 
+train loss:  0.015
+test loss:   0.0385
+ 
+train loss:  0.014925
+test loss:   0.0384
+ 
+train loss:  0.01475
+test loss:   0.0383
+ 
+train loss:  0.01465
+test loss:   0.0381
+ 
+train loss:  0.014525
+test loss:   0.0381
+ 
+train loss:  0.0143
+test loss:   0.0383
+ 
+train loss:  0.0142
+test loss:   0.0383
+ 
+train loss:  0.0142
+test loss:   0.0385
+ 
+train loss:  0.0141
+test loss:   0.0385
+ 
+train loss:  0.013975
+test loss:   0.0384
+ 
+train loss:  0.0139
+test loss:   0.0385
+ 
+train loss:  0.0138
+test loss:   0.0384
+ 
+train loss:  0.0138
+test loss:   0.0384
+ 
+train loss:  0.0138
+test loss:   0.0385
+ 
+train loss:  0.013775
+test loss:   0.0385
+ 
+train loss:  0.01375
+test loss:   0.0384
+ 
+train loss:  0.013725
+test loss:   0.0385
+ 
+train loss:  0.013675
+test loss:   0.0385
+ 
+train loss:  0.013675
+test loss:   0.0384
+ 
+train loss:  0.013625
+test loss:   0.0385
+ 
+train loss:  0.0136
+test loss:   0.0384
+ 
+train loss:  0.013575
+test loss:   0.0382
+ 
+train loss:  0.01345
+test loss:   0.038
+ 
+train loss:  0.0134
+test loss:   0.038
+ 
+train loss:  0.013325
+test loss:   0.0381
+ 
+train loss:  0.0132
+test loss:   0.038
+ 
+train loss:  0.01315
+test loss:   0.0379
+ 
+train loss:  0.01305
+test loss:   0.0381
+ 
+train loss:  0.012975
+test loss:   0.038
+ 
+train loss:  0.012925
+test loss:   0.038
+ 
+train loss:  0.0129
+test loss:   0.0379
+ 
+train loss:  0.012875
+test loss:   0.0379
+ 
+train loss:  0.01285
+test loss:   0.0379
+ 
+train loss:  0.01285
+test loss:   0.0378
+ 
+train loss:  0.012775
+test loss:   0.0377
+ 
+train loss:  0.01265
+test loss:   0.0378
+ 
+train loss:  0.0126
+test loss:   0.0379
+ 
+train loss:  0.01255
+test loss:   0.0377
+ 
+train loss:  0.012475
+test loss:   0.0377
+ 
+train loss:  0.01235
+test loss:   0.0376
+ 
+train loss:  0.012275
+test loss:   0.0374
+ 
+train loss:  0.0122
+test loss:   0.0374
+ 
+train loss:  0.01215
+test loss:   0.0375
+ 
+train loss:  0.0121
+test loss:   0.0375
+ 
+train loss:  0.01205
+test loss:   0.0375
+ 
+train loss:  0.012
+test loss:   0.0376
+ 
+train loss:  0.011975
+test loss:   0.0376
+ 
+train loss:  0.011925
+test loss:   0.0376
+ 
+train loss:  0.0119
+test loss:   0.0376
+ 
+train loss:  0.011875
+test loss:   0.0377
+ 
+train loss:  0.01185
+test loss:   0.0378
+ 
+train loss:  0.0118
+test loss:   0.0378
+ 
+train loss:  0.011775
+test loss:   0.0378
+ 
+train loss:  0.011725
+test loss:   0.0379
+ 
+train loss:  0.0117
+test loss:   0.0378
+ 
+train loss:  0.011625
+test loss:   0.0378
+ 
+train loss:  0.01155
+test loss:   0.0377
+ 
+train loss:  0.011475
+test loss:   0.0377
+ 
+train loss:  0.01145
+test loss:   0.0378
+ 
+train loss:  0.011375
+test loss:   0.0378
+ 
+train loss:  0.011325
+test loss:   0.0378
+ 
+train loss:  0.011275
+test loss:   0.0378
+ 
+train loss:  0.011225
+test loss:   0.0378
+ 
+train loss:  0.011175
+test loss:   0.0378
+ 
+train loss:  0.0111
+test loss:   0.0376
+ 
+train loss:  0.0111
+test loss:   0.0376
+ 
+train loss:  0.01105
+test loss:   0.0378
+ 
+train loss:  0.011
+test loss:   0.0378
+ 
+train loss:  0.010925
+test loss:   0.0378
+ 
+train loss:  0.010925
+test loss:   0.0379
+ 
+train loss:  0.01085
+test loss:   0.0378
+ 
+train loss:  0.0108
+test loss:   0.0377
+ 
+train loss:  0.0108
+test loss:   0.0377
+ 
+train loss:  0.010725
+test loss:   0.0378
+ 
+train loss:  0.0106
+test loss:   0.0378
+ 
+train loss:  0.010525
+test loss:   0.0378
+ 
+train loss:  0.0105
+test loss:   0.0378
+ 
+train loss:  0.010425
+test loss:   0.0377
+ 
+train loss:  0.010375
+test loss:   0.0378
+ 
+train loss:  0.010225
+test loss:   0.0379
+ 
+train loss:  0.0102
+test loss:   0.0379
+ 
+train loss:  0.0102
+test loss:   0.0377
+ 
+train loss:  0.0102
+test loss:   0.0378
+ 
+train loss:  0.010125
+test loss:   0.0378
+ 
+train loss:  0.010125
+test loss:   0.0378
+ 
+train loss:  0.0101
+test loss:   0.0379
+ 
+train loss:  0.0101
+test loss:   0.0379
+ 
+train loss:  0.010075
+test loss:   0.038
+ 
+train loss:  0.01005
+test loss:   0.038
+ 
+train loss:  0.009975
+test loss:   0.0381
+ 
+train loss:  0.009975
+test loss:   0.0382
+ 
+train loss:  0.009925
+test loss:   0.0381
+ 
+train loss:  0.009925
+test loss:   0.038
+ 
+train loss:  0.009875
+test loss:   0.0381
+ 
+train loss:  0.009875
+test loss:   0.0382
+ 
+train loss:  0.0098
+test loss:   0.0381
+ 
+train loss:  0.00975
+test loss:   0.0381
+ 
+train loss:  0.009675
+test loss:   0.0381
+ 
+train loss:  0.00965
+test loss:   0.038
+ 
+train loss:  0.0096
+test loss:   0.038
+ 
+train loss:  0.00955
+test loss:   0.038
+ 
+train loss:  0.00945
+test loss:   0.0379
+ 
+train loss:  0.009375
+test loss:   0.0379
+ 
+train loss:  0.009375
+test loss:   0.0378
+ 
+train loss:  0.009375
+test loss:   0.0378
+ 
+train loss:  0.009375
+test loss:   0.0376
+ 
+train loss:  0.00935
+test loss:   0.0376
+ 
+train loss:  0.00935
+test loss:   0.0375
+ 
+train loss:  0.0093
+test loss:   0.0378
+ 
+train loss:  0.0093
+test loss:   0.0378
+ 
+train loss:  0.0093
+test loss:   0.0378
+ 
+train loss:  0.009275
+test loss:   0.0378
+ 
+train loss:  0.00925
+test loss:   0.0378
+ 
+train loss:  0.00925
+test loss:   0.0378
+ 
+train loss:  0.009225
+test loss:   0.0378
+ 
+train loss:  0.0092
+test loss:   0.0379
+ 
+train loss:  0.0092
+test loss:   0.038
+ 
+train loss:  0.0092
+test loss:   0.038
+ 
+train loss:  0.00915
+test loss:   0.038
+ 
+train loss:  0.00915
+test loss:   0.038
+ 
+train loss:  0.009125
+test loss:   0.038
+ 
+train loss:  0.009075
+test loss:   0.0381
+ 
+train loss:  0.008975
+test loss:   0.0381
+ 
+train loss:  0.008975
+test loss:   0.0382
+ 
+train loss:  0.008975
+test loss:   0.0382
+ 
+train loss:  0.00895
+test loss:   0.0383
+ 
+train loss:  0.00895
+test loss:   0.0383
+ 
+train loss:  0.00895
+test loss:   0.0382
+ 
+train loss:  0.00895
+test loss:   0.0383
+ 
+train loss:  0.0089
+test loss:   0.0383
+ 
+train loss:  0.0089
+test loss:   0.0383
+ 
+train loss:  0.0089
+test loss:   0.0385
+ 
+train loss:  0.0089
+test loss:   0.0384
+ 
+train loss:  0.0088
+test loss:   0.0384
+ 
+train loss:  0.0088
+test loss:   0.0384
+ 
+train loss:  0.0088
+test loss:   0.0384
+ 
+train loss:  0.0088
+test loss:   0.0384
+ 
+train loss:  0.008775
+test loss:   0.0384
+ 
+train loss:  0.008775
+test loss:   0.0384
+ 
+train loss:  0.00875
+test loss:   0.0384
+ 
+train loss:  0.00875
+test loss:   0.0383
+ 
+train loss:  0.00875
+test loss:   0.0384
+ 
+train loss:  0.008725
+test loss:   0.0384
+ 
+train loss:  0.008725
+test loss:   0.0385
+ 
+train loss:  0.008725
+test loss:   0.0385
+ 
+train loss:  0.008725
+test loss:   0.0386
+ 
+train loss:  0.0087
+test loss:   0.0386
+ 
+train loss:  0.008675
+test loss:   0.0386
+ 
+train loss:  0.00865
+test loss:   0.0386
+ 
+train loss:  0.00865
+test loss:   0.0386
+ 
+train loss:  0.0086
+test loss:   0.0386
+ 
+train loss:  0.008575
+test loss:   0.0386
+ 
+train loss:  0.008575
+test loss:   0.0386
+ 
+train loss:  0.008575
+test loss:   0.0385
+ 
+train loss:  0.008575
+test loss:   0.0386
+ 
+train loss:  0.00855
+test loss:   0.0386
+ 
+train loss:  0.0085
+test loss:   0.0385
+ 
+train loss:  0.008475
+test loss:   0.0386
+ 
+train loss:  0.008425
+test loss:   0.0385
+ 
+train loss:  0.008425
+test loss:   0.0385
+ 
+train loss:  0.0084
+test loss:   0.0385
+ 
+train loss:  0.008425
+test loss:   0.0385
+ 
+train loss:  0.008425
+test loss:   0.0385
+ 
+train loss:  0.008425
+test loss:   0.0385
+ 
+train loss:  0.0084
+test loss:   0.0385
+ 
+train loss:  0.008375
+test loss:   0.0386
+ 
+train loss:  0.008375
+test loss:   0.0386
+ 
+train loss:  0.008375
+test loss:   0.0386
+ 
+train loss:  0.008375
+test loss:   0.0386
+ 
+train loss:  0.008375
+test loss:   0.0386
+ 
+train loss:  0.008375
+test loss:   0.0385
+ 
+ 
+train error:       0.008375
+validation error:  0.0385
+ 
+ 
+RUNNING FOLD  2
+3
+(40000, 10)
+ 
+train loss:  0.901425
+test loss:   0.8975
+ 
+train loss:  0.7219
+test loss:   0.7177
+ 
+train loss:  0.569175
+test loss:   0.5643
+ 
+train loss:  0.34265
+test loss:   0.3462
+ 
+train loss:  0.225575
+test loss:   0.2319
+ 
+train loss:  0.17375
+test loss:   0.184
+ 
+train loss:  0.13995
+test loss:   0.1496
+ 
+train loss:  0.118725
+test loss:   0.1291
+ 
+train loss:  0.106875
+test loss:   0.1191
+ 
+train loss:  0.0986
+test loss:   0.1108
+ 
+train loss:  0.092575
+test loss:   0.1045
+ 
+train loss:  0.08765
+test loss:   0.1006
+ 
+train loss:  0.08395
+test loss:   0.0968
+ 
+train loss:  0.080375
+test loss:   0.0934
+ 
+train loss:  0.076825
+test loss:   0.0901
+ 
+train loss:  0.074075
+test loss:   0.0875
+ 
+train loss:  0.0716
+test loss:   0.085
+ 
+train loss:  0.06895
+test loss:   0.0832
+ 
+train loss:  0.0669
+test loss:   0.0807
+ 
+train loss:  0.065275
+test loss:   0.0797
+ 
+train loss:  0.063675
+test loss:   0.0778
+ 
+train loss:  0.06175
+test loss:   0.0754
+ 
+train loss:  0.060525
+test loss:   0.0735
+ 
+train loss:  0.059175
+test loss:   0.0726
+ 
+train loss:  0.0579
+test loss:   0.0713
+ 
+train loss:  0.056475
+test loss:   0.0704
+ 
+train loss:  0.055025
+test loss:   0.0691
+ 
+train loss:  0.053925
+test loss:   0.0687
+ 
+train loss:  0.052625
+test loss:   0.0676
+ 
+train loss:  0.0516
+test loss:   0.0668
+ 
+train loss:  0.0508
+test loss:   0.066
+ 
+train loss:  0.049725
+test loss:   0.0647
+ 
+train loss:  0.04875
+test loss:   0.0637
+ 
+train loss:  0.04795
+test loss:   0.0632
+ 
+train loss:  0.047275
+test loss:   0.0632
+ 
+train loss:  0.04645
+test loss:   0.0629
+ 
+train loss:  0.0457
+test loss:   0.062
+ 
+train loss:  0.045025
+test loss:   0.0615
+ 
+train loss:  0.044325
+test loss:   0.0607
+ 
+train loss:  0.0437
+test loss:   0.0607
+ 
+train loss:  0.04305
+test loss:   0.0593
+ 
+train loss:  0.04225
+test loss:   0.0589
+ 
+train loss:  0.041575
+test loss:   0.0586
+ 
+train loss:  0.040875
+test loss:   0.0583
+ 
+train loss:  0.040125
+test loss:   0.0583
+ 
+train loss:  0.0395
+test loss:   0.0577
+ 
+train loss:  0.039
+test loss:   0.0573
+ 
+train loss:  0.038225
+test loss:   0.0562
+ 
+train loss:  0.0375
+test loss:   0.0558
+ 
+train loss:  0.036825
+test loss:   0.0559
+ 
+train loss:  0.036075
+test loss:   0.0554
+ 
+train loss:  0.0353
+test loss:   0.0547
+ 
+train loss:  0.03475
+test loss:   0.0545
+ 
+train loss:  0.034325
+test loss:   0.0541
+ 
+train loss:  0.033575
+test loss:   0.0541
+ 
+train loss:  0.03305
+test loss:   0.0539
+ 
+train loss:  0.03235
+test loss:   0.0537
+ 
+train loss:  0.031825
+test loss:   0.0536
+ 
+train loss:  0.031425
+test loss:   0.0534
+ 
+train loss:  0.031075
+test loss:   0.0533
+ 
+train loss:  0.0307
+test loss:   0.053
+ 
+train loss:  0.030225
+test loss:   0.0531
+ 
+train loss:  0.02995
+test loss:   0.0527
+ 
+train loss:  0.029625
+test loss:   0.0528
+ 
+train loss:  0.02925
+test loss:   0.0525
+ 
+train loss:  0.02885
+test loss:   0.0524
+ 
+train loss:  0.028625
+test loss:   0.0523
+ 
+train loss:  0.02825
+test loss:   0.0521
+ 
+train loss:  0.027925
+test loss:   0.0519
+ 
+train loss:  0.0275
+test loss:   0.0514
+ 
+train loss:  0.027225
+test loss:   0.0513
+ 
+train loss:  0.026925
+test loss:   0.0508
+ 
+train loss:  0.0266
+test loss:   0.0508
+ 
+train loss:  0.02605
+test loss:   0.0505
+ 
+train loss:  0.025825
+test loss:   0.0503
+ 
+train loss:  0.0256
+test loss:   0.0499
+ 
+train loss:  0.02525
+test loss:   0.0501
+ 
+train loss:  0.025025
+test loss:   0.0499
+ 
+train loss:  0.0249
+test loss:   0.0495
+ 
+train loss:  0.024575
+test loss:   0.0493
+ 
+train loss:  0.024225
+test loss:   0.0492
+ 
+train loss:  0.02405
+test loss:   0.0489
+ 
+train loss:  0.02395
+test loss:   0.0488
+ 
+train loss:  0.023625
+test loss:   0.0487
+ 
+train loss:  0.023375
+test loss:   0.0488
+ 
+train loss:  0.023075
+test loss:   0.0487
+ 
+train loss:  0.022825
+test loss:   0.0484
+ 
+train loss:  0.02265
+test loss:   0.0483
+ 
+train loss:  0.022425
+test loss:   0.0481
+ 
+train loss:  0.022275
+test loss:   0.0481
+ 
+train loss:  0.022125
+test loss:   0.048
+ 
+train loss:  0.021875
+test loss:   0.048
+ 
+train loss:  0.021625
+test loss:   0.0479
+ 
+train loss:  0.021475
+test loss:   0.0478
+ 
+train loss:  0.0213
+test loss:   0.0478
+ 
+train loss:  0.021
+test loss:   0.0478
+ 
+train loss:  0.02065
+test loss:   0.0476
+ 
+train loss:  0.02035
+test loss:   0.0476
+ 
+train loss:  0.020325
+test loss:   0.0475
+ 
+train loss:  0.0202
+test loss:   0.0475
+ 
+train loss:  0.02005
+test loss:   0.0473
+ 
+train loss:  0.01995
+test loss:   0.0474
+ 
+train loss:  0.019775
+test loss:   0.0474
+ 
+train loss:  0.01965
+test loss:   0.0472
+ 
+train loss:  0.019475
+test loss:   0.0471
+ 
+train loss:  0.019275
+test loss:   0.0472
+ 
+train loss:  0.0192
+test loss:   0.0472
+ 
+train loss:  0.0191
+test loss:   0.047
+ 
+train loss:  0.01895
+test loss:   0.047
+ 
+train loss:  0.018775
+test loss:   0.047
+ 
+train loss:  0.0187
+test loss:   0.047
+ 
+train loss:  0.018525
+test loss:   0.0469
+ 
+train loss:  0.018425
+test loss:   0.0467
+ 
+train loss:  0.0183
+test loss:   0.0466
+ 
+train loss:  0.01805
+test loss:   0.0465
+ 
+train loss:  0.017925
+test loss:   0.0463
+ 
+train loss:  0.0178
+test loss:   0.0463
+ 
+train loss:  0.017625
+test loss:   0.0462
+ 
+train loss:  0.01745
+test loss:   0.0461
+ 
+train loss:  0.01735
+test loss:   0.0459
+ 
+train loss:  0.017275
+test loss:   0.0457
+ 
+train loss:  0.017225
+test loss:   0.0455
+ 
+train loss:  0.01715
+test loss:   0.0455
+ 
+train loss:  0.017125
+test loss:   0.0455
+ 
+train loss:  0.017
+test loss:   0.0455
+ 
+train loss:  0.016975
+test loss:   0.0453
+ 
+train loss:  0.016875
+test loss:   0.0452
+ 
+train loss:  0.016725
+test loss:   0.0451
+ 
+train loss:  0.016625
+test loss:   0.0451
+ 
+train loss:  0.0164
+test loss:   0.045
+ 
+train loss:  0.01625
+test loss:   0.0449
+ 
+train loss:  0.01615
+test loss:   0.0448
+ 
+train loss:  0.01595
+test loss:   0.0447
+ 
+train loss:  0.015825
+test loss:   0.0447
+ 
+train loss:  0.01575
+test loss:   0.0446
+ 
+train loss:  0.015675
+test loss:   0.0444
+ 
+train loss:  0.0156
+test loss:   0.0444
+ 
+train loss:  0.0156
+test loss:   0.0445
+ 
+train loss:  0.015525
+test loss:   0.0443
+ 
+train loss:  0.0154
+test loss:   0.0444
+ 
+train loss:  0.015375
+test loss:   0.0443
+ 
+train loss:  0.015325
+test loss:   0.0443
+ 
+train loss:  0.015275
+test loss:   0.0443
+ 
+train loss:  0.0152
+test loss:   0.0446
+ 
+train loss:  0.015125
+test loss:   0.0445
+ 
+train loss:  0.015075
+test loss:   0.0445
+ 
+train loss:  0.015025
+test loss:   0.0444
+ 
+train loss:  0.0149
+test loss:   0.0442
+ 
+train loss:  0.014775
+test loss:   0.0443
+ 
+train loss:  0.014725
+test loss:   0.0443
+ 
+train loss:  0.0146
+test loss:   0.0443
+ 
+train loss:  0.014575
+test loss:   0.0442
+ 
+train loss:  0.0145
+test loss:   0.0441
+ 
+train loss:  0.014425
+test loss:   0.0441
+ 
+train loss:  0.0143
+test loss:   0.0439
+ 
+train loss:  0.014225
+test loss:   0.0438
+ 
+train loss:  0.01415
+test loss:   0.0436
+ 
+train loss:  0.014025
+test loss:   0.0436
+ 
+train loss:  0.013925
+test loss:   0.0435
+ 
+train loss:  0.013775
+test loss:   0.0437
+ 
+train loss:  0.01375
+test loss:   0.0434
+ 
+train loss:  0.01375
+test loss:   0.0435
+ 
+train loss:  0.0137
+test loss:   0.0435
+ 
+train loss:  0.013675
+test loss:   0.0433
+ 
+train loss:  0.0136
+test loss:   0.0432
+ 
+train loss:  0.013525
+test loss:   0.0432
+ 
+train loss:  0.013475
+test loss:   0.0433
+ 
+train loss:  0.013375
+test loss:   0.0433
+ 
+train loss:  0.013375
+test loss:   0.0434
+ 
+train loss:  0.013275
+test loss:   0.0434
+ 
+train loss:  0.01325
+test loss:   0.0434
+ 
+train loss:  0.0132
+test loss:   0.0434
+ 
+train loss:  0.013125
+test loss:   0.0434
+ 
+train loss:  0.012975
+test loss:   0.0435
+ 
+train loss:  0.012975
+test loss:   0.0436
+ 
+train loss:  0.01295
+test loss:   0.0436
+ 
+train loss:  0.01285
+test loss:   0.0436
+ 
+train loss:  0.01285
+test loss:   0.0436
+ 
+train loss:  0.012775
+test loss:   0.0434
+ 
+train loss:  0.0127
+test loss:   0.0435
+ 
+train loss:  0.0127
+test loss:   0.0434
+ 
+train loss:  0.01265
+test loss:   0.0433
+ 
+train loss:  0.01265
+test loss:   0.0433
+ 
+train loss:  0.0126
+test loss:   0.0433
+ 
+train loss:  0.012575
+test loss:   0.0432
+ 
+train loss:  0.0124
+test loss:   0.0432
+ 
+train loss:  0.01235
+test loss:   0.0434
+ 
+train loss:  0.012325
+test loss:   0.0436
+ 
+train loss:  0.012275
+test loss:   0.0436
+ 
+train loss:  0.012225
+test loss:   0.0436
+ 
+train loss:  0.0122
+test loss:   0.0436
+ 
+train loss:  0.0122
+test loss:   0.0434
+ 
+train loss:  0.012175
+test loss:   0.0434
+ 
+train loss:  0.0121
+test loss:   0.0434
+ 
+train loss:  0.011975
+test loss:   0.0431
+ 
+train loss:  0.01185
+test loss:   0.0432
+ 
+train loss:  0.011775
+test loss:   0.0432
+ 
+train loss:  0.01175
+test loss:   0.0432
+ 
+train loss:  0.011725
+test loss:   0.0431
+ 
+train loss:  0.011675
+test loss:   0.0431
+ 
+train loss:  0.0116
+test loss:   0.043
+ 
+train loss:  0.0116
+test loss:   0.0429
+ 
+train loss:  0.0116
+test loss:   0.0428
+ 
+train loss:  0.011625
+test loss:   0.0428
+ 
+train loss:  0.011625
+test loss:   0.0429
+ 
+train loss:  0.011575
+test loss:   0.0427
+ 
+train loss:  0.01155
+test loss:   0.043
+ 
+train loss:  0.0115
+test loss:   0.043
+ 
+train loss:  0.011475
+test loss:   0.043
+ 
+train loss:  0.011475
+test loss:   0.0428
+ 
+train loss:  0.0114
+test loss:   0.0429
+ 
+train loss:  0.011375
+test loss:   0.0429
+ 
+train loss:  0.01125
+test loss:   0.0429
+ 
+train loss:  0.011225
+test loss:   0.0431
+ 
+train loss:  0.01115
+test loss:   0.0431
+ 
+train loss:  0.01115
+test loss:   0.0433
+ 
+train loss:  0.0111
+test loss:   0.0431
+ 
+train loss:  0.011075
+test loss:   0.0431
+ 
+train loss:  0.011
+test loss:   0.0431
+ 
+train loss:  0.010925
+test loss:   0.0432
+ 
+train loss:  0.010925
+test loss:   0.0432
+ 
+train loss:  0.0109
+test loss:   0.0431
+ 
+train loss:  0.010875
+test loss:   0.0431
+ 
+train loss:  0.010875
+test loss:   0.043
+ 
+train loss:  0.0108
+test loss:   0.043
+ 
+train loss:  0.01075
+test loss:   0.0433
+ 
+train loss:  0.01075
+test loss:   0.0433
+ 
+train loss:  0.0107
+test loss:   0.0434
+ 
+train loss:  0.0107
+test loss:   0.0435
+ 
+train loss:  0.010675
+test loss:   0.0435
+ 
+train loss:  0.0106
+test loss:   0.0435
+ 
+train loss:  0.0106
+test loss:   0.0435
+ 
+train loss:  0.01055
+test loss:   0.0434
+ 
+train loss:  0.01055
+test loss:   0.0435
+ 
+train loss:  0.010525
+test loss:   0.0435
+ 
+train loss:  0.010525
+test loss:   0.0436
+ 
+train loss:  0.010525
+test loss:   0.0435
+ 
+train loss:  0.010475
+test loss:   0.0435
+ 
+train loss:  0.010475
+test loss:   0.0434
+ 
+train loss:  0.010425
+test loss:   0.0434
+ 
+train loss:  0.010425
+test loss:   0.0435
+ 
+train loss:  0.0104
+test loss:   0.0434
+ 
+train loss:  0.010375
+test loss:   0.0435
+ 
+train loss:  0.010375
+test loss:   0.0435
+ 
+train loss:  0.010375
+test loss:   0.0435
+ 
+train loss:  0.010375
+test loss:   0.0434
+ 
+train loss:  0.01035
+test loss:   0.0435
+ 
+train loss:  0.0103
+test loss:   0.0434
+ 
+train loss:  0.010275
+test loss:   0.0436
+ 
+train loss:  0.010275
+test loss:   0.0435
+ 
+train loss:  0.0102
+test loss:   0.0435
+ 
+train loss:  0.010125
+test loss:   0.0435
+ 
+train loss:  0.010125
+test loss:   0.0435
+ 
+train loss:  0.010125
+test loss:   0.0435
+ 
+train loss:  0.0101
+test loss:   0.0433
+ 
+train loss:  0.0101
+test loss:   0.0435
+ 
+train loss:  0.01005
+test loss:   0.0432
+ 
+train loss:  0.01
+test loss:   0.0431
+ 
+train loss:  0.009975
+test loss:   0.0431
+ 
+train loss:  0.009875
+test loss:   0.0431
+ 
+train loss:  0.0099
+test loss:   0.043
+ 
+train loss:  0.0099
+test loss:   0.0431
+ 
+train loss:  0.009875
+test loss:   0.0431
+ 
+train loss:  0.009875
+test loss:   0.0432
+ 
+train loss:  0.00985
+test loss:   0.0432
+ 
+train loss:  0.009825
+test loss:   0.0431
+ 
+train loss:  0.009825
+test loss:   0.0431
+ 
+train loss:  0.009825
+test loss:   0.043
+ 
+train loss:  0.009825
+test loss:   0.043
+ 
+train loss:  0.009825
+test loss:   0.0429
+ 
+train loss:  0.009825
+test loss:   0.043
+ 
+ 
+train error:       0.0098
+validation error:  0.043
+ 
+ 
+RUNNING FOLD  3
+9
+(40000, 10)
+ 
+train loss:  0.90275
+test loss:   0.896
+ 
+train loss:  0.674175
+test loss:   0.6748
+ 
+train loss:  0.4425
+test loss:   0.4446
+ 
+train loss:  0.294575
+test loss:   0.2957
+ 
+train loss:  0.230275
+test loss:   0.2274
+ 
+train loss:  0.16595
+test loss:   0.1637
+ 
+train loss:  0.129625
+test loss:   0.1309
+ 
+train loss:  0.1127
+test loss:   0.1152
+ 
+train loss:  0.10375
+test loss:   0.1043
+ 
+train loss:  0.097375
+test loss:   0.0979
+ 
+train loss:  0.092425
+test loss:   0.0934
+ 
+train loss:  0.0882
+test loss:   0.09
+ 
+train loss:  0.0841
+test loss:   0.0868
+ 
+train loss:  0.0813
+test loss:   0.0834
+ 
+train loss:  0.078225
+test loss:   0.081
+ 
+train loss:  0.0756
+test loss:   0.0786
+ 
+train loss:  0.07315
+test loss:   0.076
+ 
+train loss:  0.071025
+test loss:   0.0734
+ 
+train loss:  0.068775
+test loss:   0.0718
+ 
+train loss:  0.0669
+test loss:   0.0698
+ 
+train loss:  0.0651
+test loss:   0.0678
+ 
+train loss:  0.063125
+test loss:   0.0667
+ 
+train loss:  0.061475
+test loss:   0.0656
+ 
+train loss:  0.059775
+test loss:   0.064
+ 
+train loss:  0.058725
+test loss:   0.0621
+ 
+train loss:  0.05755
+test loss:   0.0606
+ 
+train loss:  0.055875
+test loss:   0.0603
+ 
+train loss:  0.05475
+test loss:   0.0588
+ 
+train loss:  0.0536
+test loss:   0.0581
+ 
+train loss:  0.052625
+test loss:   0.0567
+ 
+train loss:  0.05195
+test loss:   0.056
+ 
+train loss:  0.051
+test loss:   0.0553
+ 
+train loss:  0.049875
+test loss:   0.0542
+ 
+train loss:  0.048875
+test loss:   0.0541
+ 
+train loss:  0.048025
+test loss:   0.0541
+ 
+train loss:  0.0472
+test loss:   0.0533
+ 
+train loss:  0.046425
+test loss:   0.0525
+ 
+train loss:  0.045525
+test loss:   0.0516
+ 
+train loss:  0.04455
+test loss:   0.0505
+ 
+train loss:  0.0439
+test loss:   0.0496
+ 
+train loss:  0.0433
+test loss:   0.0493
+ 
+train loss:  0.04255
+test loss:   0.049
+ 
+train loss:  0.041875
+test loss:   0.0488
+ 
+train loss:  0.041475
+test loss:   0.0482
+ 
+train loss:  0.040975
+test loss:   0.0475
+ 
+train loss:  0.0404
+test loss:   0.0476
+ 
+train loss:  0.039875
+test loss:   0.0472
+ 
+train loss:  0.039475
+test loss:   0.0469
+ 
+train loss:  0.039
+test loss:   0.0461
+ 
+train loss:  0.038575
+test loss:   0.0456
+ 
+train loss:  0.0381
+test loss:   0.0455
+ 
+train loss:  0.037575
+test loss:   0.0452
+ 
+train loss:  0.037025
+test loss:   0.045
+ 
+train loss:  0.03655
+test loss:   0.0448
+ 
+train loss:  0.036075
+test loss:   0.0441
+ 
+train loss:  0.035825
+test loss:   0.0439
+ 
+train loss:  0.035175
+test loss:   0.0433
+ 
+train loss:  0.034375
+test loss:   0.0431
+ 
+train loss:  0.0339
+test loss:   0.043
+ 
+train loss:  0.033325
+test loss:   0.0428
+ 
+train loss:  0.03295
+test loss:   0.0427
+ 
+train loss:  0.032575
+test loss:   0.0421
+ 
+train loss:  0.03225
+test loss:   0.0421
+ 
+train loss:  0.03175
+test loss:   0.0421
+ 
+train loss:  0.031425
+test loss:   0.0421
+ 
+train loss:  0.030975
+test loss:   0.0422
+ 
+train loss:  0.0306
+test loss:   0.0418
+ 
+train loss:  0.030225
+test loss:   0.0417
+ 
+train loss:  0.02985
+test loss:   0.0415
+ 
+train loss:  0.0296
+test loss:   0.0416
+ 
+train loss:  0.02925
+test loss:   0.0417
+ 
+train loss:  0.02895
+test loss:   0.0419
+ 
+train loss:  0.028725
+test loss:   0.0415
+ 
+train loss:  0.028525
+test loss:   0.0411
+ 
+train loss:  0.028175
+test loss:   0.0408
+ 
+train loss:  0.02785
+test loss:   0.0407
+ 
+train loss:  0.027625
+test loss:   0.0404
+ 
+train loss:  0.027275
+test loss:   0.0405
+ 
+train loss:  0.02705
+test loss:   0.0401
+ 
+train loss:  0.026825
+test loss:   0.04
+ 
+train loss:  0.02655
+test loss:   0.0401
+ 
+train loss:  0.026275
+test loss:   0.0401
+ 
+train loss:  0.026075
+test loss:   0.0398
+ 
+train loss:  0.02575
+test loss:   0.0396
+ 
+train loss:  0.02535
+test loss:   0.0395
+ 
+train loss:  0.0252
+test loss:   0.0394
+ 
+train loss:  0.02485
+test loss:   0.0394
+ 
+train loss:  0.024725
+test loss:   0.0394
+ 
+train loss:  0.02435
+test loss:   0.0392
+ 
+train loss:  0.024275
+test loss:   0.0391
+ 
+train loss:  0.0239
+test loss:   0.0389
+ 
+train loss:  0.02365
+test loss:   0.0389
+ 
+train loss:  0.0234
+test loss:   0.0388
+ 
+train loss:  0.023175
+test loss:   0.0388
+ 
+train loss:  0.023
+test loss:   0.0387
+ 
+train loss:  0.022725
+test loss:   0.0389
+ 
+train loss:  0.022375
+test loss:   0.0388
+ 
+train loss:  0.022275
+test loss:   0.0388
+ 
+train loss:  0.022025
+test loss:   0.0387
+ 
+train loss:  0.0218
+test loss:   0.0387
+ 
+train loss:  0.021575
+test loss:   0.0387
+ 
+train loss:  0.021325
+test loss:   0.0386
+ 
+train loss:  0.0212
+test loss:   0.0386
+ 
+train loss:  0.0211
+test loss:   0.0386
+ 
+train loss:  0.020825
+test loss:   0.0385
+ 
+train loss:  0.0207
+test loss:   0.0387
+ 
+train loss:  0.02055
+test loss:   0.0388
+ 
+train loss:  0.02045
+test loss:   0.0384
+ 
+train loss:  0.02035
+test loss:   0.0383
+ 
+train loss:  0.020225
+test loss:   0.0381
+ 
+train loss:  0.01985
+test loss:   0.0381
+ 
+train loss:  0.01965
+test loss:   0.0381
+ 
+train loss:  0.0195
+test loss:   0.038
+ 
+train loss:  0.01925
+test loss:   0.0381
+ 
+train loss:  0.019
+test loss:   0.0381
+ 
+train loss:  0.018675
+test loss:   0.0381
+ 
+train loss:  0.0186
+test loss:   0.038
+ 
+train loss:  0.0185
+test loss:   0.0379
+ 
+train loss:  0.018375
+test loss:   0.0379
+ 
+train loss:  0.018275
+test loss:   0.0379
+ 
+train loss:  0.018175
+test loss:   0.0379
+ 
+train loss:  0.0181
+test loss:   0.0378
+ 
+train loss:  0.018
+test loss:   0.0381
+ 
+train loss:  0.01785
+test loss:   0.0382
+ 
+train loss:  0.0177
+test loss:   0.0382
+ 
+train loss:  0.017525
+test loss:   0.0382
+ 
+train loss:  0.01745
+test loss:   0.0384
+ 
+train loss:  0.017325
+test loss:   0.0384
+ 
+train loss:  0.017125
+test loss:   0.0384
+ 
+train loss:  0.01705
+test loss:   0.0384
+ 
+train loss:  0.0169
+test loss:   0.0384
+ 
+train loss:  0.016775
+test loss:   0.0384
+ 
+train loss:  0.0166
+test loss:   0.0385
+ 
+train loss:  0.016525
+test loss:   0.0385
+ 
+train loss:  0.016425
+test loss:   0.0384
+ 
+train loss:  0.01635
+test loss:   0.0385
+ 
+train loss:  0.01635
+test loss:   0.0387
+ 
+train loss:  0.01635
+test loss:   0.0386
+ 
+train loss:  0.0162
+test loss:   0.0385
+ 
+train loss:  0.01605
+test loss:   0.0384
+ 
+train loss:  0.01595
+test loss:   0.0385
+ 
+train loss:  0.015775
+test loss:   0.0386
+ 
+train loss:  0.015675
+test loss:   0.0385
+ 
+train loss:  0.0156
+test loss:   0.0387
+ 
+train loss:  0.01545
+test loss:   0.0384
+ 
+train loss:  0.015425
+test loss:   0.0385
+ 
+train loss:  0.01535
+test loss:   0.0384
+ 
+train loss:  0.015275
+test loss:   0.0382
+ 
+train loss:  0.015275
+test loss:   0.0383
+ 
+train loss:  0.01515
+test loss:   0.0384
+ 
+train loss:  0.015125
+test loss:   0.0383
+ 
+train loss:  0.015075
+test loss:   0.0384
+ 
+train loss:  0.015025
+test loss:   0.0382
+ 
+train loss:  0.015025
+test loss:   0.0383
+ 
+train loss:  0.01495
+test loss:   0.0382
+ 
+train loss:  0.014925
+test loss:   0.038
+ 
+train loss:  0.014925
+test loss:   0.038
+ 
+train loss:  0.0148
+test loss:   0.0377
+ 
+train loss:  0.01475
+test loss:   0.0378
+ 
+train loss:  0.0146
+test loss:   0.0377
+ 
+train loss:  0.014525
+test loss:   0.0377
+ 
+train loss:  0.01445
+test loss:   0.0376
+ 
+train loss:  0.014375
+test loss:   0.0376
+ 
+train loss:  0.0143
+test loss:   0.0376
+ 
+train loss:  0.014275
+test loss:   0.0376
+ 
+train loss:  0.014275
+test loss:   0.0376
+ 
+train loss:  0.01415
+test loss:   0.0376
+ 
+train loss:  0.014025
+test loss:   0.0377
+ 
+train loss:  0.01395
+test loss:   0.0378
+ 
+train loss:  0.01385
+test loss:   0.038
+ 
+train loss:  0.013825
+test loss:   0.0379
+ 
+train loss:  0.0138
+test loss:   0.0379
+ 
+train loss:  0.013725
+test loss:   0.038
+ 
+train loss:  0.0137
+test loss:   0.038
+ 
+train loss:  0.0136
+test loss:   0.038
+ 
+train loss:  0.0136
+test loss:   0.038
+ 
+train loss:  0.01355
+test loss:   0.038
+ 
+train loss:  0.013525
+test loss:   0.0378
+ 
+train loss:  0.0135
+test loss:   0.0379
+ 
+train loss:  0.0134
+test loss:   0.038
+ 
+train loss:  0.01335
+test loss:   0.0382
+ 
+train loss:  0.01335
+test loss:   0.0382
+ 
+train loss:  0.01325
+test loss:   0.038
+ 
+train loss:  0.013225
+test loss:   0.0379
+ 
+train loss:  0.013175
+test loss:   0.0382
+ 
+train loss:  0.0131
+test loss:   0.0379
+ 
+train loss:  0.013025
+test loss:   0.0379
+ 
+train loss:  0.01285
+test loss:   0.0378
+ 
+train loss:  0.012825
+test loss:   0.0377
+ 
+train loss:  0.012775
+test loss:   0.0377
+ 
+train loss:  0.012775
+test loss:   0.0377
+ 
+train loss:  0.0127
+test loss:   0.0376
+ 
+train loss:  0.0126
+test loss:   0.0376
+ 
+train loss:  0.0126
+test loss:   0.0377
+ 
+train loss:  0.012575
+test loss:   0.0377
+ 
+train loss:  0.012575
+test loss:   0.0377
+ 
+train loss:  0.0125
+test loss:   0.0377
+ 
+train loss:  0.012475
+test loss:   0.0376
+ 
+train loss:  0.012425
+test loss:   0.0378
+ 
+train loss:  0.012375
+test loss:   0.0377
+ 
+train loss:  0.01235
+test loss:   0.0377
+ 
+train loss:  0.01235
+test loss:   0.0377
+ 
+train loss:  0.01225
+test loss:   0.0378
+ 
+train loss:  0.012175
+test loss:   0.0378
+ 
+train loss:  0.012175
+test loss:   0.038
+ 
+train loss:  0.012175
+test loss:   0.038
+ 
+train loss:  0.01215
+test loss:   0.0381
+ 
+train loss:  0.012075
+test loss:   0.0381
+ 
+train loss:  0.01205
+test loss:   0.0381
+ 
+train loss:  0.011975
+test loss:   0.038
+ 
+train loss:  0.011925
+test loss:   0.038
+ 
+train loss:  0.0119
+test loss:   0.038
+ 
+train loss:  0.0119
+test loss:   0.0379
+ 
+train loss:  0.011875
+test loss:   0.0379
+ 
+train loss:  0.011875
+test loss:   0.0379
+ 
+train loss:  0.01185
+test loss:   0.0379
+ 
+train loss:  0.011775
+test loss:   0.0379
+ 
+train loss:  0.01175
+test loss:   0.0379
+ 
+train loss:  0.01165
+test loss:   0.0379
+ 
+train loss:  0.01165
+test loss:   0.0379
+ 
+train loss:  0.01165
+test loss:   0.038
+ 
+train loss:  0.011625
+test loss:   0.0379
+ 
+train loss:  0.011625
+test loss:   0.0379
+ 
+train loss:  0.0116
+test loss:   0.0379
+ 
+train loss:  0.011575
+test loss:   0.0378
+ 
+train loss:  0.011575
+test loss:   0.0378
+ 
+train loss:  0.011575
+test loss:   0.0378
+ 
+train loss:  0.0115
+test loss:   0.038
+ 
+train loss:  0.011475
+test loss:   0.038
+ 
+train loss:  0.011475
+test loss:   0.0379
+ 
+train loss:  0.0114
+test loss:   0.038
+ 
+train loss:  0.011375
+test loss:   0.0382
+ 
+train loss:  0.011375
+test loss:   0.0383
+ 
+train loss:  0.01135
+test loss:   0.0384
+ 
+train loss:  0.01135
+test loss:   0.0382
+ 
+train loss:  0.011325
+test loss:   0.0381
+ 
+train loss:  0.011325
+test loss:   0.0382
+ 
+train loss:  0.0113
+test loss:   0.0382
+ 
+train loss:  0.0113
+test loss:   0.0382
+ 
+train loss:  0.011275
+test loss:   0.0383
+ 
+train loss:  0.011225
+test loss:   0.0385
+ 
+train loss:  0.0112
+test loss:   0.0385
+ 
+train loss:  0.0112
+test loss:   0.0385
+ 
+train loss:  0.0112
+test loss:   0.0385
+ 
+train loss:  0.011175
+test loss:   0.0385
+ 
+train loss:  0.011125
+test loss:   0.0384
+ 
+train loss:  0.0111
+test loss:   0.0384
+ 
+train loss:  0.0111
+test loss:   0.0385
+ 
+train loss:  0.011075
+test loss:   0.0385
+ 
+train loss:  0.01105
+test loss:   0.0385
+ 
+train loss:  0.01105
+test loss:   0.0383
+ 
+train loss:  0.011025
+test loss:   0.0383
+ 
+train loss:  0.010975
+test loss:   0.0384
+ 
+train loss:  0.0109
+test loss:   0.0384
+ 
+train loss:  0.01085
+test loss:   0.0384
+ 
+train loss:  0.01085
+test loss:   0.0383
+ 
+train loss:  0.01085
+test loss:   0.0384
+ 
+train loss:  0.010775
+test loss:   0.0385
+ 
+train loss:  0.01075
+test loss:   0.0385
+ 
+train loss:  0.010725
+test loss:   0.0385
+ 
+train loss:  0.0107
+test loss:   0.0385
+ 
+train loss:  0.01065
+test loss:   0.0386
+ 
+train loss:  0.0106
+test loss:   0.0387
+ 
+train loss:  0.010575
+test loss:   0.0386
+ 
+train loss:  0.010575
+test loss:   0.0386
+ 
+train loss:  0.01055
+test loss:   0.0386
+ 
+train loss:  0.01055
+test loss:   0.0386
+ 
+train loss:  0.01055
+test loss:   0.0384
+ 
+train loss:  0.01055
+test loss:   0.0385
+ 
+train loss:  0.010525
+test loss:   0.0385
+ 
+train loss:  0.0105
+test loss:   0.0384
+ 
+train loss:  0.0105
+test loss:   0.0386
+ 
+train loss:  0.0105
+test loss:   0.0388
+ 
+train loss:  0.0105
+test loss:   0.0389
+ 
+train loss:  0.0105
+test loss:   0.0389
+ 
+train loss:  0.010475
+test loss:   0.0389
+ 
+train loss:  0.010475
+test loss:   0.0387
+ 
+train loss:  0.01045
+test loss:   0.0387
+ 
+train loss:  0.01045
+test loss:   0.0387
+ 
+train loss:  0.010425
+test loss:   0.0387
+ 
+train loss:  0.0104
+test loss:   0.0387
+ 
+train loss:  0.0104
+test loss:   0.039
+ 
+train loss:  0.010375
+test loss:   0.039
+ 
+train loss:  0.01035
+test loss:   0.0392
+ 
+train loss:  0.010325
+test loss:   0.0392
+ 
+train loss:  0.0103
+test loss:   0.0391
+ 
+train loss:  0.0103
+test loss:   0.0391
+ 
+train loss:  0.010275
+test loss:   0.0391
+ 
+train loss:  0.010275
+test loss:   0.0391
+ 
+train loss:  0.010275
+test loss:   0.0391
+ 
+train loss:  0.010225
+test loss:   0.0389
+ 
+train loss:  0.010175
+test loss:   0.0388
+ 
+train loss:  0.010175
+test loss:   0.0388
+ 
+train loss:  0.010175
+test loss:   0.0389
+ 
+train loss:  0.010175
+test loss:   0.0387
+ 
+train loss:  0.01015
+test loss:   0.0387
+ 
+train loss:  0.0101
+test loss:   0.0387
+ 
+train loss:  0.010075
+test loss:   0.0388
+ 
+train loss:  0.010075
+test loss:   0.0388
+ 
+train loss:  0.01005
+test loss:   0.0388
+ 
+train loss:  0.010025
+test loss:   0.0387
+ 
+train loss:  0.010025
+test loss:   0.0387
+ 
+train loss:  0.009975
+test loss:   0.0387
+ 
+train loss:  0.00995
+test loss:   0.0387
+ 
+train loss:  0.00995
+test loss:   0.0387
+ 
+train loss:  0.00995
+test loss:   0.0387
+ 
+train loss:  0.00995
+test loss:   0.0387
+ 
+train loss:  0.0099
+test loss:   0.0387
+ 
+train loss:  0.009875
+test loss:   0.0386
+ 
+train loss:  0.009875
+test loss:   0.0388
+ 
+train loss:  0.009875
+test loss:   0.0389
+ 
+train loss:  0.009875
+test loss:   0.0389
+ 
+train loss:  0.009875
+test loss:   0.0389
+ 
+train loss:  0.009875
+test loss:   0.0389
+ 
+ 
+train error:       0.009825
+validation error:  0.039
+ 
+ 
+RUNNING FOLD  4
+2
+(40000, 10)
+ 
+train loss:  0.8948
+test loss:   0.9033
+ 
+train loss:  0.6913
+test loss:   0.6962
+ 
+train loss:  0.501725
+test loss:   0.5094
+ 
+train loss:  0.3196
+test loss:   0.3229
+ 
+train loss:  0.224675
+test loss:   0.2234
+ 
+train loss:  0.158425
+test loss:   0.1564
+ 
+train loss:  0.123425
+test loss:   0.1266
+ 
+train loss:  0.10805
+test loss:   0.1112
+ 
+train loss:  0.099975
+test loss:   0.1018
+ 
+train loss:  0.093625
+test loss:   0.0955
+ 
+train loss:  0.0888
+test loss:   0.0902
+ 
+train loss:  0.08455
+test loss:   0.0865
+ 
+train loss:  0.08035
+test loss:   0.083
+ 
+train loss:  0.0769
+test loss:   0.0796
+ 
+train loss:  0.074025
+test loss:   0.0765
+ 
+train loss:  0.071175
+test loss:   0.074
+ 
+train loss:  0.0686
+test loss:   0.0717
+ 
+train loss:  0.066175
+test loss:   0.0696
+ 
+train loss:  0.0647
+test loss:   0.0678
+ 
+train loss:  0.062575
+test loss:   0.0663
+ 
+train loss:  0.060625
+test loss:   0.0647
+ 
+train loss:  0.059325
+test loss:   0.0635
+ 
+train loss:  0.057375
+test loss:   0.0614
+ 
+train loss:  0.055625
+test loss:   0.0602
+ 
+train loss:  0.054225
+test loss:   0.0592
+ 
+train loss:  0.053125
+test loss:   0.0583
+ 
+train loss:  0.05155
+test loss:   0.0576
+ 
+train loss:  0.0501
+test loss:   0.0573
+ 
+train loss:  0.04925
+test loss:   0.0565
+ 
+train loss:  0.0481
+test loss:   0.056
+ 
+train loss:  0.047275
+test loss:   0.0555
+ 
+train loss:  0.046225
+test loss:   0.0548
+ 
+train loss:  0.04525
+test loss:   0.0541
+ 
+train loss:  0.04415
+test loss:   0.0536
+ 
+train loss:  0.04355
+test loss:   0.0529
+ 
+train loss:  0.0428
+test loss:   0.0524
+ 
+train loss:  0.042075
+test loss:   0.0517
+ 
+train loss:  0.041325
+test loss:   0.0511
+ 
+train loss:  0.040675
+test loss:   0.0504
+ 
+train loss:  0.03965
+test loss:   0.0497
+ 
+train loss:  0.03905
+test loss:   0.0492
+ 
+train loss:  0.0384
+test loss:   0.0483
+ 
+train loss:  0.037825
+test loss:   0.0475
+ 
+train loss:  0.037325
+test loss:   0.0469
+ 
+train loss:  0.036825
+test loss:   0.0467
+ 
+train loss:  0.036225
+test loss:   0.0465
+ 
+train loss:  0.035675
+test loss:   0.0462
+ 
+train loss:  0.0351
+test loss:   0.0458
+ 
+train loss:  0.034525
+test loss:   0.0456
+ 
+train loss:  0.033925
+test loss:   0.0455
+ 
+train loss:  0.03325
+test loss:   0.0453
+ 
+train loss:  0.032475
+test loss:   0.0451
+ 
+train loss:  0.031925
+test loss:   0.0448
+ 
+train loss:  0.031425
+test loss:   0.0446
+ 
+train loss:  0.031
+test loss:   0.0441
+ 
+train loss:  0.030575
+test loss:   0.0435
+ 
+train loss:  0.0301
+test loss:   0.0433
+ 
+train loss:  0.02965
+test loss:   0.0433
+ 
+train loss:  0.029175
+test loss:   0.0431
+ 
+train loss:  0.0286
+test loss:   0.0428
+ 
+train loss:  0.028225
+test loss:   0.0425
+ 
+train loss:  0.0278
+test loss:   0.0425
+ 
+train loss:  0.0274
+test loss:   0.0424
+ 
+train loss:  0.02705
+test loss:   0.0421
+ 
+train loss:  0.02685
+test loss:   0.0418
+ 
+train loss:  0.026675
+test loss:   0.0416
+ 
+train loss:  0.026375
+test loss:   0.0411
+ 
+train loss:  0.02605
+test loss:   0.0411
+ 
+train loss:  0.025725
+test loss:   0.0411
+ 
+train loss:  0.0253
+test loss:   0.0411
+ 
+train loss:  0.0249
+test loss:   0.041
+ 
+train loss:  0.0246
+test loss:   0.0407
+ 
+train loss:  0.02425
+test loss:   0.0408
+ 
+train loss:  0.023975
+test loss:   0.0407
+ 
+train loss:  0.02375
+test loss:   0.0405
+ 
+train loss:  0.023525
+test loss:   0.0403
+ 
+train loss:  0.023325
+test loss:   0.0401
+ 
+train loss:  0.0231
+test loss:   0.04
+ 
+train loss:  0.022825
+test loss:   0.04
+ 
+train loss:  0.02255
+test loss:   0.0399
+ 
+train loss:  0.0223
+test loss:   0.0398
+ 
+train loss:  0.02215
+test loss:   0.0398
+ 
+train loss:  0.02195
+test loss:   0.0398
+ 
+train loss:  0.0217
+test loss:   0.0399
+ 
+train loss:  0.021475
+test loss:   0.0396
+ 
+train loss:  0.021175
+test loss:   0.0395
+ 
+train loss:  0.020925
+test loss:   0.0394
+ 
+train loss:  0.02075
+test loss:   0.0393
+ 
+train loss:  0.020575
+test loss:   0.0392
+ 
+train loss:  0.02045
+test loss:   0.0392
+ 
+train loss:  0.02035
+test loss:   0.0391
+ 
+train loss:  0.020125
+test loss:   0.0392
+ 
+train loss:  0.01995
+test loss:   0.0391
+ 
+train loss:  0.019675
+test loss:   0.039
+ 
+train loss:  0.0196
+test loss:   0.039
+ 
+train loss:  0.019425
+test loss:   0.039
+ 
+train loss:  0.019175
+test loss:   0.039
+ 
+train loss:  0.019025
+test loss:   0.0387
+ 
+train loss:  0.018775
+test loss:   0.0386
+ 
+train loss:  0.01865
+test loss:   0.0384
+ 
+train loss:  0.018475
+test loss:   0.0382
+ 
+train loss:  0.018325
+test loss:   0.038
+ 
+train loss:  0.018125
+test loss:   0.0377
+ 
+train loss:  0.0179
+test loss:   0.0377
+ 
+train loss:  0.017725
+test loss:   0.0378
+ 
+train loss:  0.01745
+test loss:   0.0378
+ 
+train loss:  0.017375
+test loss:   0.0377
+ 
+train loss:  0.017275
+test loss:   0.0376
+ 
+train loss:  0.01725
+test loss:   0.0373
+ 
+train loss:  0.0171
+test loss:   0.0372
+ 
+train loss:  0.01695
+test loss:   0.0373
+ 
+train loss:  0.0168
+test loss:   0.0372
+ 
+train loss:  0.01665
+test loss:   0.0373
+ 
+train loss:  0.016525
+test loss:   0.0372
+ 
+train loss:  0.0165
+test loss:   0.0371
+ 
+train loss:  0.0164
+test loss:   0.0372
+ 
+train loss:  0.016275
+test loss:   0.0372
+ 
+train loss:  0.0161
+test loss:   0.0373
+ 
+train loss:  0.015925
+test loss:   0.0372
+ 
+train loss:  0.01575
+test loss:   0.0373
+ 
+train loss:  0.015675
+test loss:   0.0374
+ 
+train loss:  0.0155
+test loss:   0.0374
+ 
+train loss:  0.0154
+test loss:   0.0373
+ 
+train loss:  0.01525
+test loss:   0.0371
+ 
+train loss:  0.0151
+test loss:   0.0371
+ 
+train loss:  0.015075
+test loss:   0.0371
+ 
+train loss:  0.0149
+test loss:   0.0371
+ 
+train loss:  0.01485
+test loss:   0.0371
+ 
+train loss:  0.0148
+test loss:   0.0372
+ 
+train loss:  0.014675
+test loss:   0.0373
+ 
+train loss:  0.014575
+test loss:   0.0372
+ 
+train loss:  0.014425
+test loss:   0.0372
+ 
+train loss:  0.0143
+test loss:   0.0374
+ 
+train loss:  0.014225
+test loss:   0.0373
+ 
+train loss:  0.014175
+test loss:   0.0374
+ 
+train loss:  0.014025
+test loss:   0.0374
+ 
+train loss:  0.013925
+test loss:   0.0374
+ 
+train loss:  0.013775
+test loss:   0.0375
+ 
+train loss:  0.01365
+test loss:   0.0374
+ 
+train loss:  0.013625
+test loss:   0.0374
+ 
+train loss:  0.01355
+test loss:   0.0373
+ 
+train loss:  0.01355
+test loss:   0.0373
+ 
+train loss:  0.01355
+test loss:   0.0374
+ 
+train loss:  0.013475
+test loss:   0.0373
+ 
+train loss:  0.01335
+test loss:   0.0374
+ 
+train loss:  0.013325
+test loss:   0.0374
+ 
+train loss:  0.013275
+test loss:   0.0373
+ 
+train loss:  0.013175
+test loss:   0.0376
+ 
+train loss:  0.01315
+test loss:   0.0375
+ 
+train loss:  0.01305
+test loss:   0.0375
+ 
+train loss:  0.012925
+test loss:   0.0375
+ 
+train loss:  0.012825
+test loss:   0.0374
+ 
+train loss:  0.012725
+test loss:   0.0374
+ 
+train loss:  0.012625
+test loss:   0.0374
+ 
+train loss:  0.01255
+test loss:   0.0374
+ 
+train loss:  0.012525
+test loss:   0.0374
+ 
+train loss:  0.012475
+test loss:   0.0375
+ 
+train loss:  0.01245
+test loss:   0.0374
+ 
+train loss:  0.012425
+test loss:   0.0375
+ 
+train loss:  0.012375
+test loss:   0.0375
+ 
+train loss:  0.012325
+test loss:   0.0374
+ 
+train loss:  0.012225
+test loss:   0.0373
+ 
+train loss:  0.01215
+test loss:   0.0373
+ 
+train loss:  0.0121
+test loss:   0.0371
+ 
+train loss:  0.01205
+test loss:   0.037
+ 
+train loss:  0.012
+test loss:   0.037
+ 
+train loss:  0.011925
+test loss:   0.0367
+ 
+train loss:  0.011875
+test loss:   0.0367
+ 
+train loss:  0.011875
+test loss:   0.0366
+ 
+train loss:  0.011825
+test loss:   0.0365
+ 
+train loss:  0.011775
+test loss:   0.0364
+ 
+train loss:  0.011725
+test loss:   0.0365
+ 
+train loss:  0.011675
+test loss:   0.0365
+ 
+train loss:  0.011625
+test loss:   0.0364
+ 
+train loss:  0.011525
+test loss:   0.0364
+ 
+train loss:  0.011525
+test loss:   0.0366
+ 
+train loss:  0.01145
+test loss:   0.0367
+ 
+train loss:  0.011425
+test loss:   0.0368
+ 
+train loss:  0.011375
+test loss:   0.0367
+ 
+train loss:  0.01135
+test loss:   0.0367
+ 
+train loss:  0.0113
+test loss:   0.0368
+ 
+train loss:  0.011225
+test loss:   0.0368
+ 
+train loss:  0.011175
+test loss:   0.0369
+ 
+train loss:  0.011075
+test loss:   0.0368
+ 
+train loss:  0.011075
+test loss:   0.0367
+ 
+train loss:  0.011025
+test loss:   0.0367
+ 
+train loss:  0.010975
+test loss:   0.0367
+ 
+train loss:  0.0109
+test loss:   0.0368
+ 
+train loss:  0.0109
+test loss:   0.0369
+ 
+train loss:  0.010825
+test loss:   0.0367
+ 
+train loss:  0.01075
+test loss:   0.0365
+ 
+train loss:  0.01065
+test loss:   0.0366
+ 
+train loss:  0.01065
+test loss:   0.0366
+ 
+train loss:  0.010575
+test loss:   0.0364
+ 
+train loss:  0.01045
+test loss:   0.0363
+ 
+train loss:  0.0104
+test loss:   0.0364
+ 
+train loss:  0.0104
+test loss:   0.0363
+ 
+train loss:  0.0104
+test loss:   0.0364
+ 
+train loss:  0.0104
+test loss:   0.0364
+ 
+train loss:  0.01035
+test loss:   0.0364
+ 
+train loss:  0.010275
+test loss:   0.0364
+ 
+train loss:  0.01025
+test loss:   0.0363
+ 
+train loss:  0.01025
+test loss:   0.0363
+ 
+train loss:  0.010225
+test loss:   0.0362
+ 
+train loss:  0.0102
+test loss:   0.0361
+ 
+train loss:  0.0102
+test loss:   0.0362
+ 
+train loss:  0.01015
+test loss:   0.0362
+ 
+train loss:  0.010125
+test loss:   0.0362
+ 
+train loss:  0.010075
+test loss:   0.0362
+ 
+train loss:  0.010025
+test loss:   0.0362
+ 
+train loss:  0.009975
+test loss:   0.0362
+ 
+train loss:  0.009975
+test loss:   0.0363
+ 
+train loss:  0.009875
+test loss:   0.0363
+ 
+train loss:  0.0098
+test loss:   0.0363
+ 
+train loss:  0.009675
+test loss:   0.0363
+ 
+train loss:  0.009675
+test loss:   0.0362
+ 
+train loss:  0.00965
+test loss:   0.0362
+ 
+train loss:  0.009625
+test loss:   0.0364
+ 
+train loss:  0.009625
+test loss:   0.0362
+ 
+train loss:  0.009625
+test loss:   0.0361
+ 
+train loss:  0.009625
+test loss:   0.0361
+ 
+train loss:  0.009625
+test loss:   0.036
+ 
+train loss:  0.009625
+test loss:   0.0359
+ 
+ 
+train error:       0.0096
+validation error:  0.0359
+ 
+ 
+RUNNING FOLD  5
+3
+(40000, 10)
+ 
+train loss:  0.900425
+test loss:   0.9015
+ 
+train loss:  0.643
+test loss:   0.6556
+ 
+train loss:  0.3954
+test loss:   0.4076
+ 
+train loss:  0.2614
+test loss:   0.2657
+ 
+train loss:  0.183525
+test loss:   0.1858
+ 
+train loss:  0.135325
+test loss:   0.1372
+ 
+train loss:  0.116
+test loss:   0.117
+ 
+train loss:  0.10585
+test loss:   0.1087
+ 
+train loss:  0.098525
+test loss:   0.1013
+ 
+train loss:  0.092925
+test loss:   0.0967
+ 
+train loss:  0.087475
+test loss:   0.0921
+ 
+train loss:  0.0839
+test loss:   0.0886
+ 
+train loss:  0.0801
+test loss:   0.0848
+ 
+train loss:  0.07665
+test loss:   0.0806
+ 
+train loss:  0.073
+test loss:   0.0778
+ 
+train loss:  0.07025
+test loss:   0.0757
+ 
+train loss:  0.0679
+test loss:   0.0744
+ 
+train loss:  0.066175
+test loss:   0.0725
+ 
+train loss:  0.064025
+test loss:   0.0701
+ 
+train loss:  0.0622
+test loss:   0.0686
+ 
+train loss:  0.060525
+test loss:   0.0673
+ 
+train loss:  0.058925
+test loss:   0.0659
+ 
+train loss:  0.05755
+test loss:   0.0642
+ 
+train loss:  0.0556
+test loss:   0.0639
+ 
+train loss:  0.054075
+test loss:   0.0628
+ 
+train loss:  0.052575
+test loss:   0.0617
+ 
+train loss:  0.051325
+test loss:   0.0601
+ 
+train loss:  0.0503
+test loss:   0.0597
+ 
+train loss:  0.04935
+test loss:   0.0589
+ 
+train loss:  0.04835
+test loss:   0.0582
+ 
+train loss:  0.0472
+test loss:   0.0561
+ 
+train loss:  0.046025
+test loss:   0.0546
+ 
+train loss:  0.04515
+test loss:   0.0537
+ 
+train loss:  0.044
+test loss:   0.0536
+ 
+train loss:  0.043075
+test loss:   0.053
+ 
+train loss:  0.042275
+test loss:   0.0519
+ 
+train loss:  0.041575
+test loss:   0.051
+ 
+train loss:  0.040625
+test loss:   0.0504
+ 
+train loss:  0.039875
+test loss:   0.0506
+ 
+train loss:  0.03915
+test loss:   0.0503
+ 
+train loss:  0.03875
+test loss:   0.0496
+ 
+train loss:  0.037925
+test loss:   0.049
+ 
+train loss:  0.036825
+test loss:   0.0487
+ 
+train loss:  0.036075
+test loss:   0.0482
+ 
+train loss:  0.03565
+test loss:   0.0476
+ 
+train loss:  0.0352
+test loss:   0.0473
+ 
+train loss:  0.034775
+test loss:   0.0473
+ 
+train loss:  0.034325
+test loss:   0.047
+ 
+train loss:  0.033825
+test loss:   0.0468
+ 
+train loss:  0.03325
+test loss:   0.0459
+ 
+train loss:  0.032575
+test loss:   0.0455
+ 
+train loss:  0.03215
+test loss:   0.0451
+ 
+train loss:  0.031675
+test loss:   0.0444
+ 
+train loss:  0.03115
+test loss:   0.044
+ 
+train loss:  0.0306
+test loss:   0.0437
+ 
+train loss:  0.02995
+test loss:   0.0435
+ 
+train loss:  0.02955
+test loss:   0.0433
+ 
+train loss:  0.0292
+test loss:   0.0432
+ 
+train loss:  0.028875
+test loss:   0.0429
+ 
+train loss:  0.02855
+test loss:   0.0428
+ 
+train loss:  0.028275
+test loss:   0.0427
+ 
+train loss:  0.02765
+test loss:   0.0426
+ 
+train loss:  0.02735
+test loss:   0.042
+ 
+train loss:  0.02705
+test loss:   0.0419
+ 
+train loss:  0.0266
+test loss:   0.0418
+ 
+train loss:  0.026375
+test loss:   0.0421
+ 
+train loss:  0.026075
+test loss:   0.042
+ 
+train loss:  0.0258
+test loss:   0.042
+ 
+train loss:  0.0256
+test loss:   0.042
+ 
+train loss:  0.0254
+test loss:   0.0419
+ 
+train loss:  0.025
+test loss:   0.0417
+ 
+train loss:  0.0246
+test loss:   0.0414
+ 
+train loss:  0.024225
+test loss:   0.0413
+ 
+train loss:  0.023925
+test loss:   0.0413
+ 
+train loss:  0.023725
+test loss:   0.0409
+ 
+train loss:  0.023525
+test loss:   0.0407
+ 
+train loss:  0.02335
+test loss:   0.0406
+ 
+train loss:  0.02315
+test loss:   0.0405
+ 
+train loss:  0.0229
+test loss:   0.04
+ 
+train loss:  0.0228
+test loss:   0.0399
+ 
+train loss:  0.02265
+test loss:   0.0397
+ 
+train loss:  0.02235
+test loss:   0.0393
+ 
+train loss:  0.022025
+test loss:   0.0391
+ 
+train loss:  0.021725
+test loss:   0.0389
+ 
+train loss:  0.0215
+test loss:   0.0385
+ 
+train loss:  0.0214
+test loss:   0.0383
+ 
+train loss:  0.021275
+test loss:   0.0377
+ 
+train loss:  0.02105
+test loss:   0.0378
+ 
+train loss:  0.020875
+test loss:   0.0378
+ 
+train loss:  0.0207
+test loss:   0.0379
+ 
+train loss:  0.0205
+test loss:   0.0378
+ 
+train loss:  0.020225
+test loss:   0.0377
+ 
+train loss:  0.019925
+test loss:   0.0378
+ 
+train loss:  0.019675
+test loss:   0.0379
+ 
+train loss:  0.019625
+test loss:   0.0379
+ 
+train loss:  0.0195
+test loss:   0.0379
+ 
+train loss:  0.019375
+test loss:   0.0377
+ 
+train loss:  0.019325
+test loss:   0.0375
+ 
+train loss:  0.019225
+test loss:   0.0375
+ 
+train loss:  0.019
+test loss:   0.0376
+ 
+train loss:  0.01875
+test loss:   0.0377
+ 
+train loss:  0.018575
+test loss:   0.0375
+ 
+train loss:  0.018475
+test loss:   0.0374
+ 
+train loss:  0.01825
+test loss:   0.0374
+ 
+train loss:  0.018225
+test loss:   0.0373
+ 
+train loss:  0.01805
+test loss:   0.0373
+ 
+train loss:  0.017825
+test loss:   0.0373
+ 
+train loss:  0.017725
+test loss:   0.0372
+ 
+train loss:  0.01755
+test loss:   0.0375
+ 
+train loss:  0.017375
+test loss:   0.0375
+ 
+train loss:  0.01725
+test loss:   0.0375
+ 
+train loss:  0.01715
+test loss:   0.0375
+ 
+train loss:  0.01705
+test loss:   0.0371
+ 
+train loss:  0.016925
+test loss:   0.0369
+ 
+train loss:  0.0168
+test loss:   0.037
+ 
+train loss:  0.016725
+test loss:   0.037
+ 
+train loss:  0.01665
+test loss:   0.0372
+ 
+train loss:  0.016575
+test loss:   0.0371
+ 
+train loss:  0.016375
+test loss:   0.0372
+ 
+train loss:  0.016375
+test loss:   0.0371
+ 
+train loss:  0.016225
+test loss:   0.037
+ 
+train loss:  0.0162
+test loss:   0.0373
+ 
+train loss:  0.016025
+test loss:   0.0371
+ 
+train loss:  0.01595
+test loss:   0.0373
+ 
+train loss:  0.01585
+test loss:   0.0373
+ 
+train loss:  0.01575
+test loss:   0.0371
+ 
+train loss:  0.0157
+test loss:   0.037
+ 
+train loss:  0.015575
+test loss:   0.037
+ 
+train loss:  0.015525
+test loss:   0.0366
+ 
+train loss:  0.015325
+test loss:   0.0367
+ 
+train loss:  0.015225
+test loss:   0.0368
+ 
+train loss:  0.0151
+test loss:   0.0367
+ 
+train loss:  0.014925
+test loss:   0.0365
+ 
+train loss:  0.014825
+test loss:   0.0365
+ 
+train loss:  0.0148
+test loss:   0.0361
+ 
+train loss:  0.01475
+test loss:   0.0362
+ 
+train loss:  0.014675
+test loss:   0.0362
+ 
+train loss:  0.014575
+test loss:   0.0363
+ 
+train loss:  0.0145
+test loss:   0.0363
+ 
+train loss:  0.014425
+test loss:   0.0364
+ 
+train loss:  0.01435
+test loss:   0.0364
+ 
+train loss:  0.014275
+test loss:   0.0364
+ 
+train loss:  0.01425
+test loss:   0.0364
+ 
+train loss:  0.0142
+test loss:   0.0364
+ 
+train loss:  0.0141
+test loss:   0.0362
+ 
+train loss:  0.014025
+test loss:   0.0363
+ 
+train loss:  0.014
+test loss:   0.0361
+ 
+train loss:  0.013925
+test loss:   0.0361
+ 
+train loss:  0.013775
+test loss:   0.036
+ 
+train loss:  0.013725
+test loss:   0.0362
+ 
+train loss:  0.0137
+test loss:   0.0362
+ 
+train loss:  0.013625
+test loss:   0.0363
+ 
+train loss:  0.01355
+test loss:   0.0362
+ 
+train loss:  0.0134
+test loss:   0.0362
+ 
+train loss:  0.013375
+test loss:   0.0363
+ 
+train loss:  0.013375
+test loss:   0.0364
+ 
+train loss:  0.01325
+test loss:   0.0366
+ 
+train loss:  0.013125
+test loss:   0.0367
+ 
+train loss:  0.013025
+test loss:   0.0368
+ 
+train loss:  0.01295
+test loss:   0.0367
+ 
+train loss:  0.01295
+test loss:   0.0367
+ 
+train loss:  0.012875
+test loss:   0.0369
+ 
+train loss:  0.012775
+test loss:   0.0369
+ 
+train loss:  0.012675
+test loss:   0.037
+ 
+train loss:  0.0126
+test loss:   0.0369
+ 
+train loss:  0.01255
+test loss:   0.0369
+ 
+train loss:  0.01255
+test loss:   0.0369
+ 
+train loss:  0.01255
+test loss:   0.0368
+ 
+train loss:  0.0125
+test loss:   0.0369
+ 
+train loss:  0.0125
+test loss:   0.0368
+ 
+train loss:  0.0125
+test loss:   0.0369
+ 
+train loss:  0.0125
+test loss:   0.0371
+ 
+train loss:  0.01245
+test loss:   0.037
+ 
+train loss:  0.0124
+test loss:   0.037
+ 
+train loss:  0.0123
+test loss:   0.037
+ 
+train loss:  0.01225
+test loss:   0.0369
+ 
+train loss:  0.012225
+test loss:   0.0368
+ 
+train loss:  0.0122
+test loss:   0.0367
+ 
+train loss:  0.012175
+test loss:   0.0369
+ 
+train loss:  0.0121
+test loss:   0.0369
+ 
+train loss:  0.0121
+test loss:   0.0367
+ 
+train loss:  0.012025
+test loss:   0.0368
+ 
+train loss:  0.011975
+test loss:   0.0369
+ 
+train loss:  0.011975
+test loss:   0.0369
+ 
+train loss:  0.01195
+test loss:   0.0369
+ 
+train loss:  0.011875
+test loss:   0.0369
+ 
+train loss:  0.011825
+test loss:   0.0369
+ 
+train loss:  0.0117
+test loss:   0.0369
+ 
+train loss:  0.0117
+test loss:   0.0368
+ 
+train loss:  0.011625
+test loss:   0.0367
+ 
+train loss:  0.011575
+test loss:   0.0368
+ 
+train loss:  0.011525
+test loss:   0.0366
+ 
+train loss:  0.011475
+test loss:   0.0366
+ 
+train loss:  0.01145
+test loss:   0.0366
+ 
+train loss:  0.01135
+test loss:   0.0366
+ 
+train loss:  0.01135
+test loss:   0.0365
+ 
+train loss:  0.011325
+test loss:   0.0365
+ 
+train loss:  0.011275
+test loss:   0.0365
+ 
+train loss:  0.0112
+test loss:   0.0365
+ 
+train loss:  0.011175
+test loss:   0.0366
+ 
+train loss:  0.011125
+test loss:   0.0366
+ 
+train loss:  0.011075
+test loss:   0.0367
+ 
+train loss:  0.01105
+test loss:   0.0368
+ 
+train loss:  0.011025
+test loss:   0.0368
+ 
+train loss:  0.010975
+test loss:   0.0367
+ 
+train loss:  0.0109
+test loss:   0.0366
+ 
+train loss:  0.01085
+test loss:   0.0366
+ 
+train loss:  0.010825
+test loss:   0.0364
+ 
+train loss:  0.010775
+test loss:   0.0364
+ 
+train loss:  0.0107
+test loss:   0.0363
+ 
+train loss:  0.010675
+test loss:   0.0363
+ 
+train loss:  0.0106
+test loss:   0.0363
+ 
+train loss:  0.010575
+test loss:   0.0362
+ 
+train loss:  0.0105
+test loss:   0.0362
+ 
+train loss:  0.01045
+test loss:   0.0361
+ 
+train loss:  0.010375
+test loss:   0.0362
+ 
+train loss:  0.01035
+test loss:   0.0362
+ 
+train loss:  0.010325
+test loss:   0.0361
+ 
+train loss:  0.010325
+test loss:   0.0362
+ 
+train loss:  0.0103
+test loss:   0.0364
+ 
+train loss:  0.0103
+test loss:   0.0363
+ 
+train loss:  0.01025
+test loss:   0.0363
+ 
+train loss:  0.010225
+test loss:   0.0364
+ 
+train loss:  0.0102
+test loss:   0.0365
+ 
+train loss:  0.01015
+test loss:   0.0365
+ 
+train loss:  0.010075
+test loss:   0.0364
+ 
+train loss:  0.01
+test loss:   0.0365
+ 
+train loss:  0.00995
+test loss:   0.0365
+ 
+train loss:  0.00995
+test loss:   0.0365
+ 
+train loss:  0.00995
+test loss:   0.0365
+ 
+train loss:  0.00995
+test loss:   0.0365
+ 
+train loss:  0.00995
+test loss:   0.0365
+ 
+train loss:  0.009925
+test loss:   0.0365
+ 
+train loss:  0.009925
+test loss:   0.0366
+ 
+train loss:  0.009875
+test loss:   0.0367
+ 
+train loss:  0.009825
+test loss:   0.0367
+ 
+train loss:  0.0098
+test loss:   0.0367
+ 
+train loss:  0.009725
+test loss:   0.0366
+ 
+train loss:  0.009725
+test loss:   0.0366
+ 
+train loss:  0.0097
+test loss:   0.0367
+ 
+train loss:  0.00965
+test loss:   0.0366
+ 
+train loss:  0.009625
+test loss:   0.0366
+ 
+train loss:  0.009625
+test loss:   0.0366
+ 
+train loss:  0.0096
+test loss:   0.0366
+ 
+train loss:  0.00955
+test loss:   0.0367
+ 
+train loss:  0.00955
+test loss:   0.0367
+ 
+train loss:  0.009475
+test loss:   0.0369
+ 
+train loss:  0.00945
+test loss:   0.0371
+ 
+train loss:  0.0094
+test loss:   0.037
+ 
+train loss:  0.009375
+test loss:   0.0369
+ 
+train loss:  0.009325
+test loss:   0.037
+ 
+train loss:  0.009325
+test loss:   0.0368
+ 
+train loss:  0.009225
+test loss:   0.0366
+ 
+train loss:  0.0092
+test loss:   0.0366
+ 
+train loss:  0.0092
+test loss:   0.0366
+ 
+train loss:  0.00915
+test loss:   0.0365
+ 
+train loss:  0.00915
+test loss:   0.0365
+ 
+train loss:  0.00915
+test loss:   0.0366
+ 
+train loss:  0.009125
+test loss:   0.0365
+ 
+train loss:  0.009075
+test loss:   0.0365
+ 
+train loss:  0.009
+test loss:   0.0366
+ 
+train loss:  0.009
+test loss:   0.0366
+ 
+train loss:  0.008975
+test loss:   0.0366
+ 
+train loss:  0.00895
+test loss:   0.0366
+ 
+train loss:  0.00895
+test loss:   0.0366
+ 
+train loss:  0.008925
+test loss:   0.0366
+ 
+train loss:  0.008875
+test loss:   0.0367
+ 
+train loss:  0.00885
+test loss:   0.0367
+ 
+train loss:  0.0088
+test loss:   0.0366
+ 
+train loss:  0.008775
+test loss:   0.0365
+ 
+train loss:  0.00875
+test loss:   0.0365
+ 
+train loss:  0.008725
+test loss:   0.0366
+ 
+train loss:  0.008725
+test loss:   0.0366
+ 
+train loss:  0.008675
+test loss:   0.0368
+ 
+train loss:  0.00865
+test loss:   0.0368
+ 
+train loss:  0.00865
+test loss:   0.0367
+ 
+train loss:  0.0086
+test loss:   0.0367
+ 
+train loss:  0.0086
+test loss:   0.0367
+ 
+train loss:  0.008575
+test loss:   0.0369
+ 
+train loss:  0.00855
+test loss:   0.037
+ 
+train loss:  0.00855
+test loss:   0.037
+ 
+train loss:  0.008525
+test loss:   0.037
+ 
+train loss:  0.008525
+test loss:   0.037
+ 
+train loss:  0.0085
+test loss:   0.0371
+ 
+train loss:  0.008475
+test loss:   0.0371
+ 
+train loss:  0.00845
+test loss:   0.0371
+ 
+train loss:  0.00845
+test loss:   0.0371
+ 
+train loss:  0.0084
+test loss:   0.0372
+ 
+train loss:  0.0084
+test loss:   0.0372
+ 
+train loss:  0.0084
+test loss:   0.0372
+ 
+train loss:  0.0084
+test loss:   0.0372
+ 
+train loss:  0.0084
+test loss:   0.0372
+ 
+train loss:  0.0084
+test loss:   0.0371
+ 
+ 
+train error:       0.008375
+validation error:  0.0372
+ 
+ 
