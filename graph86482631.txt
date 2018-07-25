@@ -1,0 +1,119 @@
+train loss:  0.0384615384615
+validation loss:   0.0384615384615
+ 
+train loss:  0.146418269231
+validation loss:   0.148076923077
+ 
+train loss:  0.465568910256
+validation loss:   0.465576923077
+ 
+train loss:  0.66515224359
+validation loss:   0.666634615385
+ 
+train loss:  0.7428125
+validation loss:   0.741153846154
+ 
+train loss:  0.793381410256
+validation loss:   0.788173076923
+ 
+train loss:  0.822203525641
+validation loss:   0.815336538462
+ 
+train loss:  0.846883012821
+validation loss:   0.838076923077
+ 
+train loss:  0.860232371795
+validation loss:   0.850192307692
+ 
+train loss:  0.869695512821
+validation loss:   0.855336538462
+ 
+train loss:  0.877796474359
+validation loss:   0.862548076923
+ 
+train loss:  0.884607371795
+validation loss:   0.867067307692
+ 
+train loss:  0.889310897436
+validation loss:   0.871057692308
+ 
+train loss:  0.893060897436
+validation loss:   0.873365384615
+ 
+train loss:  0.896322115385
+validation loss:   0.875240384615
+ 
+train loss:  0.899150641026
+validation loss:   0.876778846154
+ 
+train loss:  0.901746794872
+validation loss:   0.878317307692
+ 
+train loss:  0.904463141026
+validation loss:   0.880240384615
+ 
+train loss:  0.907043269231
+validation loss:   0.881586538462
+ 
+train loss:  0.909519230769
+validation loss:   0.882067307692
+ 
+train loss:  0.911682692308
+validation loss:   0.883653846154
+ 
+train loss:  0.914182692308
+validation loss:   0.884855769231
+ 
+train loss:  0.916177884615
+validation loss:   0.885384615385
+ 
+train loss:  0.917772435897
+validation loss:   0.886346153846
+ 
+train loss:  0.919431089744
+validation loss:   0.886586538462
+ 
+train loss:  0.920985576923
+validation loss:   0.886875
+ 
+train loss:  0.922283653846
+validation loss:   0.888173076923
+ 
+train loss:  0.923621794872
+validation loss:   0.888557692308
+ 
+train loss:  0.9246875
+validation loss:   0.888701923077
+ 
+train loss:  0.925809294872
+validation loss:   0.888798076923
+ 
+train loss:  0.926875
+validation loss:   0.889182692308
+ 
+train loss:  0.927716346154
+validation loss:   0.890096153846
+ 
+train loss:  0.928581730769
+validation loss:   0.890384615385
+ 
+train loss:  0.929599358974
+validation loss:   0.890673076923
+ 
+train loss:  0.930504807692
+validation loss:   0.890384615385
+ 
+train loss:  0.931346153846
+validation loss:   0.890432692308
+ 
+train loss:  0.932243589744
+validation loss:   0.890721153846
+ 
+train loss:  0.933141025641
+validation loss:   0.890817307692
+ 
+train loss:  0.933533653846
+validation loss:   0.891346153846
+ 
+train loss:  0.934278846154
+validation loss:   0.890961538462
